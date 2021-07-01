@@ -1,0 +1,75 @@
+[
+
+
+
+
+{
+"title": "Контакты",
+"tags": "",
+"keywords": "технический писатель, технический писатель фриланс, технический писатель удаленно",
+"url": "contacts.html",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "Владимир Юсупов",
+"tags": "",
+"keywords": "технический писатель, технический писатель фриланс, технический писатель удаленно",
+"url": "index.html",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "Портфолио",
+"tags": "",
+"keywords": "технический писатель, технический писатель фриланс, технический писатель удаленно",
+"url": "portfolio.html",
+"summary": ""
+}
+,
+
+
+
+
+
+
+
+
+
+{
+"title": "Sample post",
+"tags": "newsgetting_started",
+"keywords": "",
+"url": "samplepost.html",
+"summary": "This is some summary frontmatter for my sample post."
+}
+,
+
+
+{
+"title": "Welcome to Jekyll!",
+"tags": "news",
+"keywords": "",
+"url": "myupdate.html",
+"summary": ""
+}
+,
+
+
+{
+"title": "Test post from last year",
+"tags": "news",
+"keywords": "",
+"url": "test-post-from-last-year.html",
+"summary": ""
+}
+
+
+
+]
