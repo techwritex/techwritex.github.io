@@ -12,6 +12,10 @@ entries:
   - title: Портфолио 
     url: portfolio.html
     output: web
+
+  - title: Заметки 
+    url: news.html
+    output: web
   
   - title: Контакты 
     url: contacts.html

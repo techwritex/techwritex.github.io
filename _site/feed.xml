@@ -5,66 +5,89 @@
         <description></description>
         <link>http://localhost:4000/</link>
         <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 01 Jul 2021 07:26:55 +0300</pubDate>
-        <lastBuildDate>Thu, 01 Jul 2021 07:26:55 +0300</lastBuildDate>
+        <pubDate>Sat, 03 Jul 2021 14:35:08 +0300</pubDate>
+        <lastBuildDate>Sat, 03 Jul 2021 14:35:08 +0300</lastBuildDate>
         <generator>Jekyll v3.9.0</generator>
         
         <item>
-            <title>Sample post</title>
-            <description>&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries&lt;/p&gt;
+            <title>Формула ТУПО в оформлении технической документации</title>
+            <description>&lt;p&gt;Подходы к оформлению технической документации подробно изложены в соответсвующих руководствах/документах лидеров ИТ-индустрии. Изобретать велосипед здесь излишне. Настоятельно рекомендую ознакомиться с этими документами (в конце заметки перечислены некоторые из них). 
+Здесь же привожу основные моменты оформления (или как я называю их “формула ТУПО”), которых придерживаюсь в подготовке документации.&lt;/p&gt;
 
-&lt;h2 id=&quot;heading&quot;&gt;Heading&lt;/h2&gt;
-
-&lt;p&gt;but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
-
-&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries&lt;/p&gt;
-
-</description>
-            <pubDate>Fri, 26 Feb 2016 00:00:00 +0300</pubDate>
-            <link>http://localhost:4000/samplepost.html</link>
-            <guid isPermaLink="true">http://localhost:4000/samplepost.html</guid>
-            
-            <category>news</category>
-            
-            <category>getting_started</category>
-            
-            
-        </item>
-        
-        <item>
-            <title>Welcome to Jekyll!</title>
-            <description>&lt;p&gt;Theme updates:&lt;/p&gt;
+&lt;h2 id=&quot;принципы-оформления-формула-тупо&quot;&gt;Принципы оформления (формула ТУПО):&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Permalinks&lt;/li&gt;
-  &lt;li&gt;Kramdown&lt;/li&gt;
-  &lt;li&gt;URL specified in config file&lt;/li&gt;
-  &lt;li&gt;removed PDF output&lt;/li&gt;
-  &lt;li&gt;removed some of the alternative layouts&lt;/li&gt;
-  &lt;li&gt;added blog feature&lt;/li&gt;
-  &lt;li&gt;sidebars configurable per page&lt;/li&gt;
+  &lt;li&gt;Точность.&lt;/li&gt;
+  &lt;li&gt;Удобочитаемость.&lt;/li&gt;
+  &lt;li&gt;Последовательность.&lt;/li&gt;
+  &lt;li&gt;Ориентация на конкретную аудиторию.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Теперь рассмотрим каждый из пунктов подробнее.&lt;/p&gt;
+
+&lt;h2 id=&quot;точность&quot;&gt;Точность&lt;/h2&gt;
+
+&lt;p&gt;Техническая документация - это не художественное произведение. Никакой “воды” и лишних слов. Должна быть представлена только суть. Только тот материал, который помогает решить конкретную задачу, стоящую перед пользователем (в широком смысле пользователем, здесь же администратор, разработчик и т.д.).&lt;/p&gt;
+
+&lt;p&gt;Хотя бывают комические ситуции. Случай из практики.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;После окончания работы над одним из документов пакета проектной документации данный документ был передан руководителю ИТ-проекта. Полистав и покрутив в руках готовый документ, руководитель выдал следующее: “Я понимаю, что здесь всё только самое важное и вы подошли с полным понимаем к его подготовке, погрузившись во все детали. Но боюсь, что заказчик, заплатив N-ю сумму, не совсем корректно сопоставит затраты на документ и его объём. В общем, добавьте ещё страниц…”. Обоснование объёма подготовленного документа не растопило сердце проектного менеджера. Прошлось “дорабатывать”. И душа понеслась в рай… Через несколько дней “доработанный” документ был предоставлен руководителю повторно и… чудо случилось. “Ну, вот! Другое дело. Нарядно и страниц много. Спасибо!”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Думаю, всё здесь понятно.&lt;/p&gt;
+
+&lt;p&gt;Техническая документация - это “точное произведение”. Но если заказчик очень просит, можно пойти на встречу. Хотя, это скорее исключение из правил.&lt;/p&gt;
+
+&lt;h2 id=&quot;удобочитаемость&quot;&gt;Удобочитаемость&lt;/h2&gt;
+
+&lt;p&gt;Под удобочитаемостью или читабельностью понимается свойство текста, позволяющее оценить лёгкость восприятия человеком этого текста.&lt;/p&gt;
+
+&lt;p&gt;При этом удобочитаемость бывает двух видов:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;полиграфическая,&lt;/li&gt;
+  &lt;li&gt;лингвистическая.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;К полиграфической удобочитаемости относится внешнее оформление текста и лёгкость его визуального восприятия. Как правило, учитываются слеющие параметры:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;шрифты и их размеры,&lt;/li&gt;
+  &lt;li&gt;цвет и контрастность текста,&lt;/li&gt;
+  &lt;li&gt;выравнивание текста,&lt;/li&gt;
+  &lt;li&gt;длина строки,&lt;/li&gt;
+  &lt;li&gt;ширина полей страницы и т.д.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Лингвистическая удобочитаемость связана с построением конструкций предложений, их длиной, а также сложностью используемых слов (в том числе терминов и профессионального жаргона). Здесь всё зависит от целевой аудитории. Необходимо полностью осознавать для кого готовится документация. Исходя из этого, учитывать все нюансы лингвистической удобочитаемости.&lt;/p&gt;
+
+&lt;h2 id=&quot;последовательность&quot;&gt;Последовательность&lt;/h2&gt;
+
+&lt;p&gt;Материал в технической документации должен подаваться последовательно от общего к частному. Сначала даётся общая информация, позволяющая пользователю оценить документацию “с высоты птичьего полёта” и понять, что его ождидет. Затем выполняется переход к частному (детальному). Например, сначала общее описание процесса разработки хранилища данных, затем подробное описание каждого шага этого процесса (разработка ролей, подготовка данных и т.д.).&lt;/p&gt;
+
+&lt;h2 id=&quot;ориентация-на-конкретную-аудиторию&quot;&gt;Ориентация на конкретную аудиторию&lt;/h2&gt;
+
+&lt;p&gt;Уверен, что из названия пункта всё понятно. Как ранее было уже упомянуто, необходимо знать целевую аудиторию, для которой готовится техническая документация.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Несколько примеров с описанием правил оформления технической документации:&lt;/p&gt;
+
+&lt;div class=&quot;alert alert-warning&quot; role=&quot;alert&quot;&gt;&lt;i class=&quot;fa fa-warning&quot;&gt;&lt;/i&gt; &lt;b&gt;Важно:&lt;/b&gt;  будьте внимательны, перечисленные ниже документы разработаны с учетом английского языка и многие моменты неприменимы к нормам русского языка.&lt;/div&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://help.apple.com/applestyleguide/&quot;&gt;Apple Style Guide&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developers.google.com/style&quot;&gt;Google developer documentation style guide&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://stylepedia.net/&quot;&gt;Red Hat technical documentation style guide&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 </description>
-            <pubDate>Wed, 24 Feb 2016 00:00:00 +0300</pubDate>
-            <link>http://localhost:4000/myupdate.html</link>
-            <guid isPermaLink="true">http://localhost:4000/myupdate.html</guid>
-            
-            <category>news</category>
-            
-            
-        </item>
-        
-        <item>
-            <title>Test post from last year</title>
-            <description>&lt;p&gt;This is just a test post from the previous year.&lt;/p&gt;
-
-</description>
-            <pubDate>Sun, 12 Apr 2015 00:00:00 +0300</pubDate>
-            <link>http://localhost:4000/test-post-from-last-year.html</link>
-            <guid isPermaLink="true">http://localhost:4000/test-post-from-last-year.html</guid>
-            
-            <category>news</category>
+            <pubDate>Thu, 01 Jul 2021 00:00:00 +0300</pubDate>
+            <link>http://localhost:4000/ophormlenie-technicheskoy-documentactyi-tupo.html</link>
+            <guid isPermaLink="true">http://localhost:4000/ophormlenie-technicheskoy-documentactyi-tupo.html</guid>
             
             
         </item>

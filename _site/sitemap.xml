@@ -3,19 +3,7 @@
   
   
   <url>
-    <loc>http://localhost:4000/samplepost.html</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://localhost:4000/myupdate.html</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://localhost:4000/test-post-from-last-year.html</loc>
+    <loc>http://localhost:4000/ophormlenie-technicheskoy-documentactyi-tupo.html</loc>
   </url>
   
   
@@ -33,6 +21,18 @@
   
   <url>
     <loc>http://localhost:4000/index.html</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/news.html</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/news_archive.html</loc>
   </url>
   
   
