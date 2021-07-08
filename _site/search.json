@@ -65,9 +65,19 @@
 
 
 {
+"title": "Документация как код",
+"tags": "",
+"keywords": "документация как код, docs as code, docs like code, технический писатель москва",
+"url": "dokumentatciya-kak-kod.html",
+"summary": ""
+}
+,
+
+
+{
 "title": "Формула ТУПО в оформлении технической документации",
 "tags": "",
-"keywords": "оформление технической документации, формула тупо, style guide, developer documentation style guide",
+"keywords": "оформление технической документации, формула ТУПО, style guide, developer documentation style guide, технический писатель москва",
 "url": "ophormlenie-technicheskoy-documentactyi-tupo.html",
 "summary": ""
 }

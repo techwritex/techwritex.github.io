@@ -5,8 +5,8 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="">
-<meta name="keywords" content=" технический писатель, технический писатель фриланс, технический писатель удаленно">
-<title>Контакты | Технический писатель Владимир Юсупов</title>
+<meta name="keywords" content=",  документация как код, docs as code, docs like code, технический писатель москва">
+<title>Документация как код | Технический писатель Владимир Юсупов</title>
 <link rel="stylesheet" href="css/syntax.css">
 
 <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -183,7 +183,7 @@
 
 
 
-  <a class="email" title="Submit feedback" href="#" onclick="javascript:window.location='mailto:?subject= feedback&body=I have some feedback about the Контакты page: ' + window.location.href;"><i class="fa fa-envelope-o"></i> Feedback</a>
+  <a class="email" title="Submit feedback" href="#" onclick="javascript:window.location='mailto:?subject= feedback&body=I have some feedback about the Документация как код page: ' + window.location.href;"><i class="fa fa-envelope-o"></i> Feedback</a>
 
 </li> -->
 
@@ -201,7 +201,7 @@
                                 searchInput: document.getElementById('search-input'),
                                 resultsContainer: document.getElementById('results-container'),
                                 dataSource: 'search.json',
-                                searchResultTemplate: '<li><a href="{url}" title="Контакты">{title}</a></li>',
+                                searchResultTemplate: '<li><a href="{url}" title="Документация как код">{title}</a></li>',
                     noResultsText: 'No results found.',
                             limit: 10,
                             fuzzy: true,
@@ -288,68 +288,80 @@
 
         <!-- Content Column -->
         <div class="col-md-9" id="tg-sb-content">
-            <div class="post-header">
-   <h1 class="post-title-main">Контакты</h1>
-</div>
+            <article class="post" itemscope itemtype="https://schema.org/BlogPosting">
+
+    <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">Документация как код</h1>
+        <!-- <p class="post-meta"><time datetime="2021-07-06T00:00:00+03:00" itemprop="datePublished">06.07.2021</time> /
+            
+            
+            
+
+        </p> -->
+
+        <p class="post-meta"><time datetime="2021-07-06T00:00:00+03:00" itemprop="datePublished">06.07.2021</time></p>
 
 
+    </header>
 
-<div class="post-content">
+    <div class="post-content" itemprop="articleBody">
 
-   
-    <div class="summary"></div>
-   
+        
+        <div class="summary"></div>
+        
 
-    
-    
-<!-- this handles the automatic toc. use ## for subheads to auto-generate the on-page minitoc. if you use html tags, you must supply an ID for the heading element in order for it to appear in the minitoc. -->
-<script>
-$( document ).ready(function() {
-  // Handler for .ready() called.
+        <p>“Документация как код” (“docs as code” или “docs like code”) - подход в создании и поддержке технической документации с использованием систем, инструментов, процессов, которые применяются в разработке программного кода.</p>
 
-$('#toc').toc({ minimumHeaders: 0, listType: 'ul', showSpeed: 0, headers: 'h2,h3,h4' });
-
-/* this offset helps account for the space taken up by the floating toolbar. */
-$('#toc').on('click', 'a', function() {
-  var target = $(this.getAttribute('href'))
-    , scroll_target = target.offset().top
-
-  $(window).scrollTop(scroll_target - 10);
-  return false
-})
-  
-});
-</script>
-
-<div id="toc"></div>
-
-    
-
-
-   <hr />
-
-<p><strong>Связаться со мной можно по следующим контактам:</strong></p>
+<h3 id="признаки-подхода-документация-как-код">Признаки подхода “документация как код”:</h3>
 
 <ul>
-  <li><a href="https://www.linkedin.com/in/vladimir-yusupov-sap-bi-consultant/">Профиль на Linkedin</a>.</li>
+  <li>Ведение документации в текстовых данных.</li>
+  <li>Использование интегрированной среды разработки (IDE) для работы с текстами.</li>
+  <li>Использование системы контроля версий.</li>
+  <li>Использование статических генераторов сайтов.</li>
+  <li>Выполнение автоматического тестирования документации.</li>
+  <li>Применение методологии разработки ПО.</li>
 </ul>
 
 <hr />
 
-<p>Живу и работаю в Москве.  <br /> В настоящее время рассматриваю проекты только с дистанционным привлечением.</p>
+<h3 id="ведение-документации-в-текстовых-данных">Ведение документации в текстовых данных</h3>
+
+<p>Текстовые данные (тектовые форматы или plain text) - это текст, к которому не применено форматирование (например, различные шрифты, их размеры, цвет, жирность, курсив и т.д.). Этот тип текста прост в использовании, легко читается. Поэтому часто применяется многимим программистами и разработчиками в их работе. Примерами здесь могут служить широко распространённые облегчённые языки разметки - Markdown, reStructuredText, Textile, Fountain и др.</p>
+
+<h3 id="использование-интегрированной-среды-разработки-ide-для-работы-с-текстами">Использование интегрированной среды разработки (IDE) для работы с текстами</h3>
+
+<p>Как правило, в качестве редактора выступает IDE, которая используется смежной командой разработчиков. Например, Atom, Sublime Text, Visual Studio Code и другие (в основном бесплатные).</p>
+
+<h3 id="использование-системы-контроля-версий">Использование системы контроля версий</h3>
+
+<p>Хранение документации организовано с помощью систем контроля версий, которая также используется для хранения программного кода проекта. Наиболее часто это реализуется с помощью Git репозитариев.</p>
+
+<h3 id="использование-статических-генераторов-сайтов">Использование статических генераторов сайтов</h3>
+
+<p>Вместо систем управления содержимым (CMS) для публикации документации применяются генераторы статических сайтов. Например, Jekyll, Sphinx и т.д.</p>
+
+<h3 id="выполнение-автоматического-тестирования-документации">Выполнение автоматического тестирования документации</h3>
+
+<p>Ручная проверка документации заменяется на автоматическую в виде скрипта, который проверяет сломанные ссылки, ошибки стилей и т.д.</p>
+
+<h3 id="применение-методологии-разработки-по">Применение методологии разработки ПО</h3>
+
+<p>Применение методологии разработки ПО (например, agile), а также инструментов управления командой разработчиков (например, Jira) в рабочих процессах написания технической документации.</p>
+
+<hr />
+
+<p>Если обозначенные выше признаки включены в процесс разработки технической документации, то с большой долей вероятности можно сказать, что применяется подход “документация как код” или “docs as code”.</p>
 
 
-
-   <!--  -->
-
-    <div class="tags">
-        
     </div>
 
 
 
+</article>
 
-</div>
+
+
 
 <hr class="shaded"/>
 
