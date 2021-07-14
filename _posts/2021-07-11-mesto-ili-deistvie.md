@@ -1,7 +1,7 @@
 ---
 title:  "Место или действие?"
 # author: 'Владимир Юсупов'
-keywords: оформление технической документации, руководство пользователя, инструкци пользователя, style guide, developer documentation style guide, технический писатель москва
+keywords: оформление технической документации, руководство пользователя, инструкция пользователя, style guide, developer documentation style guide, технический писатель москва
 sidebar: general_sidebar
 published: true
 permalink: mesto-ili-deistvie.html
