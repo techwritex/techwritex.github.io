@@ -18,7 +18,7 @@ company_name: Владимир Юсупов
 # gitlab_editme_path: 
 # if you're using GitLab, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
-# google_analytics:
+google_analytics: G-0GQNZK27SZ
 # if you have google-analytics ID, put it in. if not, edit this value to blank.
 
 host: 127.0.0.1
