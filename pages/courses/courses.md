@@ -4,7 +4,7 @@ keywords: технический писатель, разработка техд
 sidebar: general_sidebar
 permalink: courses.html
 folder: courses
-summary: "Курсы для технических писателей"
+summary: ""
 ---
 
 ***
