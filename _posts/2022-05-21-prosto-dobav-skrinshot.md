@@ -15,9 +15,11 @@ tags: []
 
 Сравните два варианта описания, представленных ниже.
 
-**Вариант 1.** (Оригинальный пример из “хэлпа” - [Руководство пользователя SAP BusinessObjects Web Intelligence](https://help.sap.com/docs/SAP_BUSINESSOBJECTS_BUSINESS_INTELLIGENCE_PLATFORM/c95594c101a046159432081ca44d6b18/4729d63f6e041014910aba7db0e91070.html))
+## Вариант 1. 
 
-> ## Запуск Web Intelligence на стартовой панели BI
+(Оригинальный пример из “хэлпа” - [Руководство пользователя SAP BusinessObjects Web Intelligence](https://help.sap.com/docs/SAP_BUSINESSOBJECTS_BUSINESS_INTELLIGENCE_PLATFORM/c95594c101a046159432081ca44d6b18/4729d63f6e041014910aba7db0e91070.html))
+
+> ### Запуск Web Intelligence на стартовой панели BI
 >
 Приложение Web Intelligence можно запустить несколькими способами.
 >
@@ -27,9 +29,11 @@ tags: []
 > * Среди ярлыков приложений выберите Web Intelligence.
 >
 
-**Вариант 2.** (Тот же самый пример из “хэлпа” дополненный скриншотом)
+## Вариант 2. 
 
-> ## Запуск Web Intelligence на стартовой панели BI
+(Тот же самый пример из “хэлпа” дополненный скриншотом)
+
+> ### Запуск Web Intelligence на стартовой панели BI
 >
 > Приложение Web Intelligence можно запустить несколькими способами.
 >
