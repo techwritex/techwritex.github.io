@@ -15,9 +15,9 @@ summary: ""
 
 Опыт работы в сфере ИТ в качестве аналитика данных, разработчика хранилищ данных и консультанта по бизнес-аналитике более 11 лет. 
 
-Сертифицированный SAP BI консультант.
+SAP Business Intelligence (BI) консультант.
 
-Сертифицированный Архитектор облачных решений AWS.
+Архитектор облачных решений Amazon Web Services (AWS).
 
 ***
 
@@ -85,9 +85,9 @@ Jekyll.
 
 SAP Certified Application Associate- Business Intelligence with SAP NetWeaver 7.0. <br/> САП СНГ.
 
-AWS Certified Solutions Architect - Associate. <br/> Amazon Web Services (AWS).
+AWS Certified Solutions Architect - Associate. <br/> AWS.
 
-AWS Certified Cloud Practitioner. <br/> Amazon Web Services (AWS).
+AWS Certified Cloud Practitioner. <br/> AWS.
 
 Специалист JavaScript. <br/> Учебный центр "Специалист" при МГТУ им. Н.Э. Баумана.
 
