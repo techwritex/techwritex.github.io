@@ -4,7 +4,7 @@ title:  "Списки в документации"
 keywords: списки в технической документации, для чего нужны списки, правила использования списков, техписатель, технический писатель москва, заметки техписателя
 sidebar: general_sidebar
 published: true
-permalink: spiski-v-dokumentatcii.html
+permalink: spiski-v-tekhnicheskoj-dokumentatcii.html
 summary: ""
 tags: []
 ---
