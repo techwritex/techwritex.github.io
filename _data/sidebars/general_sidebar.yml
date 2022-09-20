@@ -9,8 +9,8 @@ entries:
     url: index.html
     output: web
 
-  - title: Портфолио 
-    url: portfolio.html
+  - title: Зачем?
+    url: why.html
     output: web
 
   - title: Заметки 
@@ -19,6 +19,10 @@ entries:
 
   - title: Исследование 
     url: survey.html
+    output: web
+  
+  - title: Портфолио 
+    url: portfolio.html
     output: web
   
   - title: Контакты 
