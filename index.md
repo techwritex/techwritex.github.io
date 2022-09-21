@@ -83,11 +83,11 @@ Jekyll.
 
 **Курсы и сертификации:**
 
-SAP Certified Application Associate- Business Intelligence with SAP NetWeaver 7.0. <br/> САП СНГ.
+SAP Certified Application Associate- Business Intelligence with SAP NetWeaver 7.0. <br/> САП СНГ (SAP).
 
-AWS Certified Solutions Architect - Associate. <br/> AWS.
+AWS Certified Solutions Architect - Associate. <br/> Amazon Web Services.
 
-AWS Certified Cloud Practitioner. <br/> AWS.
+AWS Certified Cloud Practitioner. <br/> Amazon Web Services.
 
 Специалист JavaScript. <br/> Учебный центр "Специалист" при МГТУ им. Н.Э. Баумана.
 
