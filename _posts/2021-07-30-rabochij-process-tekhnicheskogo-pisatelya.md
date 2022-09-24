@@ -39,18 +39,18 @@ tags: []
 <tbody>
 <tr>
 <td markdown="span">Планируй</td>
-<td markdown="span">Делай</td>
+<td markdown="span">Подготовка</td>
 </tr>
 <tr>
-<td markdown="span">Подготовка</td>
+<td markdown="span">Делай</td>
 <td markdown="span">Разработка</td>
 </tr>
 <tr>
 <td markdown="span">Проверяй</td>
-<td markdown="span">Действуй</td>
+<td markdown="span">Согласование</td>
 </tr>
 <tr>
-<td markdown="span">Согласование</td>
+<td markdown="span">Действуй</td>
 <td markdown="span">Публикация</td>
 </tr>
 </tbody>
