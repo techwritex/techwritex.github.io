@@ -9,7 +9,7 @@ summary: ""
 tags: []
 ---
 
-После выполнения шагов ["Подготовка"](https://techwritex.ru/rabochij-process-tekhnicheskogo-pisatelya-podgotovka.html) и ["Разработка"](https://techwritex.ru/rabochij-process-tekhnicheskogo-pisatelya-razrabotka.html) наступает чер>д согласования документации.
+После выполнения шагов ["Подготовка"](https://techwritex.ru/rabochij-process-tekhnicheskogo-pisatelya-podgotovka.html) и ["Разработка"](https://techwritex.ru/rabochij-process-tekhnicheskogo-pisatelya-razrabotka.html) наступает черёд согласования документации.
 
 Согласование является итерационным (повторяющимся) процессом. И невозможно с точностью спрогнозировать количество итераций. С большой долей вероятности можно сказать, что минимальное их количество равно двум. Потому как лично мне неизвестны примеры согласования сразу первой версии документа. Но не исключаю, что чудеса всё-таки бывают на свете. 
 
