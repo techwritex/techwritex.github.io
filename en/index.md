@@ -3,7 +3,7 @@ title: "Vladimir Yusupov"
 keywords: 
 # tags:
 sidebar: general_sidebar
-permalink: index.html
+permalink: en/index.html
 summary: ""
 ---
 
