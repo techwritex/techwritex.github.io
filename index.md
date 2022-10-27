@@ -37,9 +37,15 @@ SAP Business Intelligence (BI) консультант.
 
 ***
 
-**Языки программирования и разметки:**
+**Языки программирования:**
 
-JS, Node.js, SQL, ABAP, HTML, Markdown, (CSS).
+JS, SQL, ABAP.
+
+***
+
+**Языки разметки:**
+
+HTML, Markdown, Yandex Flavored Markdown (YFM).
 
 ***
 
