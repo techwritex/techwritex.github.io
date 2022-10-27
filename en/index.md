@@ -2,7 +2,7 @@
 title: "Vladimir Yusupov"
 keywords: 
 # tags:
-sidebar: general_sidebar
+#sidebar: general_sidebar
 permalink: en/index.html
 summary: ""
 ---
