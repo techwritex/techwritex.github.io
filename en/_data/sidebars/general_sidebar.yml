@@ -1,0 +1,30 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: 
+  folders:
+
+  - title: Резюме
+    url: index.html
+    output: web
+
+  - title: Зачем?
+    url: why.html
+    output: web
+
+  - title: Заметки 
+    url: notes.html
+    output: web
+
+  - title: Исследование 
+    url: survey.html
+    output: web
+  
+  - title: Портфолио 
+    url: portfolio.html
+    output: web
+  
+  - title: Контакты 
+    url: contacts.html
+    output: web
