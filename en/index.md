@@ -19,59 +19,59 @@ SAP Certified Business Intelligence (BI) consultant.
 
 ***
 
-**Ключевые навыки:**
+**Core competencies:**
 
-- Разработка технической документации: 
+- Technical documentation development: 
     
     - эксплуатационная документация (руководства пользователя/администратора/разработчика, инструкции);  
     
-    - документация REST API.
+    - REST API documentation.
 
 - Разработка обучающих материалов (программы обучения, презентации, сценарии видеороликов) для систем дистанционного обучения (СДО).
 
-- Разработка корпоративных хранилищ данных (КХД).
+- Data Warehouse (DWH) development.
 
-- Разработка аналитической отчётности.
+- Data visualization and report development.
 
 ***
 
-**Языки программирования:**
+**Programming languages:**
 
 JS, SQL, ABAP.
 
 ***
 
-**Языки разметки:**
+**Markup languages:**
 
 HTML, Markdown, Yandex Flavored Markdown (YFM).
 
 ***
 
-**Системы управления версиями:**
+**Version control systems:**
 
 Git (GitHub).
 
 ***
 
-**Генераторы статических сайтов:**
+**Static site generators:**
 
 Jekyll.
 
 ***
 
-**Инструменты проектного управления:** 
+**Project management tools:** 
 
 Jira, Microsoft Project.
 
 ***
 
-**Инструменты публикации документации:** 
+**Collaboration documentation tools:** 
 
 Confluence.
 
 ***
 
-**Профессиональный опыт:**
+**Experience:**
 
 Сентябрь 2019 – н.в. <br/> Независимый подрядчик (Самозанятый).
 
@@ -91,13 +91,13 @@ Confluence.
 
 ***
 
-**Образование:**
+**Education:**
 
 Саратовский государственный технический университет. <br/> Инженер.
 
 ***
 
-**Курсы и сертификации:**
+**Courses and certificates:**
 
 SAP Certified Application Associate- Business Intelligence with SAP NetWeaver 7.0. <br/> САП СНГ (SAP).
 
@@ -105,6 +105,6 @@ AWS Certified Solutions Architect - Associate. <br/> Amazon Web Services.
 
 AWS Certified Cloud Practitioner. <br/> Amazon Web Services.
 
-Специалист JavaScript. <br/> Учебный центр "Специалист" при МГТУ им. Н.Э. Баумана.
+JavaScript developer. <br/> Учебный центр "Специалист" при МГТУ им. Н.Э. Баумана.
 
 {% include links.html %}
