@@ -11,7 +11,7 @@ summary: ""
 
 ***
 
-**Technical writer** with 12+ years of experience in IT as a data analyst, a datawarehouse developer, a data engineer and a business intelligence consultant. 
+**Technical writer** with 12+ years of experience in IT as a Data analyst, a Data Warehouse developer (Data engineer) and a Business intelligence consultant. 
 
 AWS Certified Solutions Architect.
 
@@ -23,15 +23,15 @@ SAP Certified Business Intelligence (BI) consultant.
 
 - Technical documentation development: 
     
-    - эксплуатационная документация (руководства пользователя/администратора/разработчика, инструкции);  
+    - Operational documentation (User manuals, Administrator and Developer guides);  
     
     - REST API documentation.
 
-- Разработка обучающих материалов (программы обучения, презентации, сценарии видеороликов) для систем дистанционного обучения (СДО).
+- Preparation of training materials (such as training programs, presentations, video scripts) for a corporate learning management system (LMS).
 
-- Data Warehouse (DWH) development.
+- Data Warehousing.
 
-- Data visualization and report development.
+- Data visualization.
 
 ***
 
@@ -73,38 +73,38 @@ Confluence.
 
 **Experience:**
 
-Сентябрь 2019 – н.в. <br/> Независимый подрядчик (Самозанятый).
+Sep 2019 – Present <br/> Indepandent contractor (Self-employed).
 
-Апрель 2020 – н.в. <br/> Эксперт по бизнес-аналитике (Норникель).
+Apr 2020 – Present <br/> Business intelligence expert (Nornickel).
 
-Январь 2017 – Март 2020  <br/> Ведущий консультант по бизнес-аналитике (Норникель).
+Jan 2017 – Mar 2020  <br/> Lead Business intelligence consultant (Nornickel).
 
-Июль 2016 – Январь 2017 <br/> Консультант по бизнес-аналитике (Росатом).
+Jul 2016 – Jan 2017 <br/> Business intelligence consultant (Rosatom).
 
-Июль 2013 – Июль 2016  <br/> Консультант по разработке хранилищ данных (Роснефть).
+Jul 2013 – Jul 2016  <br/> Data Warehouse developer (Rosneft).
 
-Июль 2011 – Июль 2013 <br/> Аналитик данных/Консультант по разработке хранилищ данных (ТНК-BP).
+Jul 2011 – Jul 2013 <br/> Data analyst/Data Warehouse developer (TNK-BP).
 
-Июнь 2010 – Июль 2011 <br/> Консультант по разработке хранилищ данных (BDO).
+Jun 2010 – Jul 2011 <br/> Data Warehouse developer (BDO).
 
-Октябрь 2009 – Июнь 2010 <br/> Аналитик данных/Специалист по разработке хранилищ данных (ТНК-BP).
+Oct 2009 – Jun 2010 <br/> Data analyst/Data Warehouse developer (TNK-BP).
 
 ***
 
 **Education:**
 
-Саратовский государственный технический университет. <br/> Инженер.
+Saratov State Technical University. <br/> Engineer.
 
 ***
 
 **Courses and certificates:**
 
-SAP Certified Application Associate- Business Intelligence with SAP NetWeaver 7.0. <br/> САП СНГ (SAP).
+SAP Certified Application Associate- Business Intelligence with SAP NetWeaver 7.0. <br/> SAP CIS (SAP).
 
 AWS Certified Solutions Architect - Associate. <br/> Amazon Web Services.
 
 AWS Certified Cloud Practitioner. <br/> Amazon Web Services.
 
-JavaScript developer. <br/> Учебный центр "Специалист" при МГТУ им. Н.Э. Баумана.
+JavaScript developer. <br/> Computer Training Center "Specialist" at The Bauman Moscow State Technical University.
 
 {% include links.html %}
