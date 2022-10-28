@@ -17,9 +17,9 @@ entries:
     url: notes.html
     output: web
 
-  - title: Исследование 
-    url: survey.html
-    output: web
+  # - title: Исследование 
+  #   url: survey.html
+  #   output: web
   
   - title: Портфолио 
     url: portfolio.html
