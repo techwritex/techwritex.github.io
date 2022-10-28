@@ -11,7 +11,7 @@ summary: ""
 
 ***
 
-**Technical writer** with 12+ years of experience in IT as a data analyst, a datawarehouse developer and a business intelligence consultant. 
+**Technical writer** with 12+ years of experience in IT as a data analyst, a datawarehouse developer, a data engineer and a business intelligence consultant. 
 
 SAP Business Intelligence (BI) consultant.
 
