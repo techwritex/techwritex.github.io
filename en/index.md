@@ -73,7 +73,7 @@ Confluence.
 
 **Experience:**
 
-Sep 2019 – Present <br/> Indepandent contractor (Self-employed).
+Sep 2019 – Present <br/> Independent contractor (Self-employed).
 
 Apr 2020 – Present <br/> Business intelligence expert (Nornickel).
 
