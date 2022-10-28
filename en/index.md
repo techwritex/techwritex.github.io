@@ -7,7 +7,7 @@ permalink: en/index.html
 summary: ""
 ---
 
-{% include note.html content="for more information see my [Linkedin profile](www.linkedin.com/in/vladimir-yusupov-sap-bi-consultant-technical-communicator)." %}
+{% include note.html content="for more information see my [Linkedin profile](https://www.linkedin.com/in/vladimir-yusupov-sap-bi-consultant-technical-communicator/)." %}
 
 ***
 
