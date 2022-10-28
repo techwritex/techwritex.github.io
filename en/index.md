@@ -13,9 +13,9 @@ summary: ""
 
 **Technical writer** with 12+ years of experience in IT as a data analyst, a datawarehouse developer, a data engineer and a business intelligence consultant. 
 
-SAP Certified Business Intelligence (BI) consultant.
-
 AWS Certified Solutions Architect.
+
+SAP Certified Business Intelligence (BI) consultant.
 
 ***
 
