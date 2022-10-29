@@ -22,7 +22,7 @@ SAP Certified Business Intelligence (BI) consultant.
 
 **Core competencies**
 
-- Technical documentation development: 
+- Technical writing: 
     
     - Operational documentation (User manuals, Administrator and Developer guides);  
     - REST API documentation.
@@ -44,12 +44,16 @@ SAP Certified Business Intelligence (BI) consultant.
 * Project management tools: Jira, Microsoft Project.
 * Collaboration documentation tools: Confluence.
 
+***
+
 **Soft Skills**
 
 * Excellent communication and collaboration skills.
 * Team player.
 * Analytical and working very accurately and autonomously.
 * Strong attention to detail.
+
+***
 
 **Experience**
 
@@ -69,9 +73,13 @@ Jun 2010 – Jul 2011 <br/> Data Warehouse developer (BDO).
 
 Oct 2009 – Jun 2010 <br/> Data analyst/Data Warehouse developer (TNK-BP).
 
+***
+
 **Education**
 
 Saratov State Technical University. <br/> Engineer.
+
+***
 
 **Courses and certificates**
 
