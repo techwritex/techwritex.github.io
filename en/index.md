@@ -2,7 +2,7 @@
 title: "Vladimir Yusupov"
 keywords: 
 # tags:
-hide_sidebar: true
+# hide_sidebar: true
 sidebar: general_sidebar
 permalink: en/index.html
 summary: ""
@@ -20,7 +20,7 @@ SAP Certified Business Intelligence (BI) consultant.
 
 ***
 
-## Core competencies:
+**Core competencies**
 
 - Technical documentation development: 
     
@@ -35,7 +35,7 @@ SAP Certified Business Intelligence (BI) consultant.
 
 ***
 
-## Technical skills
+**Technical skills**
 
 * Programming languages: JS, SQL, ABAP.
 * Markup languages: HTML, Markdown, Yandex Flavored Markdown (YFM).
@@ -44,18 +44,14 @@ SAP Certified Business Intelligence (BI) consultant.
 * Project management tools: Jira, Microsoft Project.
 * Collaboration documentation tools: Confluence.
 
-***
-
-## Soft Skills
+**Soft Skills**
 
 * Excellent communication and collaboration skills.
 * Team player.
 * Analytical and working very accurately and autonomously.
 * Strong attention to detail.
 
-***
-
-## Experience
+**Experience**
 
 Sep 2019 – Present <br/> Independent contractor (Self-employed).
 
@@ -73,15 +69,11 @@ Jun 2010 – Jul 2011 <br/> Data Warehouse developer (BDO).
 
 Oct 2009 – Jun 2010 <br/> Data analyst/Data Warehouse developer (TNK-BP).
 
-***
-
-## Education
+**Education**
 
 Saratov State Technical University. <br/> Engineer.
 
-***
-
-## Courses and certificates
+**Courses and certificates**
 
 SAP Certified Application Associate- Business Intelligence with SAP NetWeaver 7.0. <br/> SAP CIS (SAP).
 
