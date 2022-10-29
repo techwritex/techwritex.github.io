@@ -1,7 +1,7 @@
 ---
 title: Contacts
 keywords: технический писатель, разработка техдокументации, документирование API, технический писатель фриланс, технический писатель на подряд
-sidebar: general_sidebar
+sidebar: general_sidebar_en
 permalink: en/contacts.html
 folder: stories
 summary: ""
