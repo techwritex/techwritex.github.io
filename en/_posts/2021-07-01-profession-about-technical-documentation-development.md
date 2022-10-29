@@ -3,7 +3,7 @@ title:  "There is a profession to develope technical documentation"
 # author: 'Владимир Юсупов'
 keywords: оформление технической документации, разработка технической документации, техписатель, блог технического писателя, технический писатель москва
 sidebar: general_sidebar_en
-published: true
+published: false
 permalink: profession-about-technical-documentation-development.html
 summary: ""
 tags: []
