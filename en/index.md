@@ -24,7 +24,6 @@ SAP Certified Business Intelligence (BI) consultant.
 - Technical documentation development: 
     
     - Operational documentation (User manuals, Administrator and Developer guides);  
-    
     - REST API documentation.
 
 - Preparation of training materials (such as training programs, presentations, video scripts) for a corporate learning management system (LMS).
@@ -37,49 +36,23 @@ SAP Certified Business Intelligence (BI) consultant.
 
 ## Technical skills
 
-    **Programming languages:**
-
-    JS, SQL, ABAP.
-
-    ***
-
-    **Markup languages:**
-
-    HTML, Markdown, Yandex Flavored Markdown (YFM).
-
-    ***
-
-    **Version control systems:**
-
-    Git (GitHub).
-
-    ***
-
-    **Static site generators:**
-
-    Jekyll.
-
-    ***
-
-    **Project management tools:** 
-
-    Jira, Microsoft Project.
-
-    ***
-
-    **Collaboration documentation tools:** 
-
-    Confluence.
+* Programming languages: JS, SQL, ABAP.
+* Markup languages: HTML, Markdown, Yandex Flavored Markdown (YFM).
+* Version control systems: Git (GitHub).
+* Static site generators: Jekyll.
+* Project management tools: Jira, Microsoft Project.
+* Collaboration documentation tools: Confluence.
 
 ***
 
 ## Soft Skills
 
-* Excellent communication and collaboration skills
-* Team player
-* Skilled at prioritization and multi-tasking
-* Analytical and working very accurately and autonomously
-* Strong attention to detail
+* Excellent communication and collaboration skills.
+* Team player.
+* Analytical and working very accurately and autonomously.
+* Strong attention to detail.
+
+***
 
 ## Experience
 
