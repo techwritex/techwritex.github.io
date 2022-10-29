@@ -19,7 +19,7 @@ SAP Certified Business Intelligence (BI) consultant.
 
 ***
 
-**Core competencies:**
+## Core competencies:
 
 - Technical documentation development: 
     
@@ -35,43 +35,53 @@ SAP Certified Business Intelligence (BI) consultant.
 
 ***
 
-**Programming languages:**
+## Technical skills
 
-JS, SQL, ABAP.
+    **Programming languages:**
+
+    JS, SQL, ABAP.
+
+    ***
+
+    **Markup languages:**
+
+    HTML, Markdown, Yandex Flavored Markdown (YFM).
+
+    ***
+
+    **Version control systems:**
+
+    Git (GitHub).
+
+    ***
+
+    **Static site generators:**
+
+    Jekyll.
+
+    ***
+
+    **Project management tools:** 
+
+    Jira, Microsoft Project.
+
+    ***
+
+    **Collaboration documentation tools:** 
+
+    Confluence.
 
 ***
 
-**Markup languages:**
+## Soft Skills
 
-HTML, Markdown, Yandex Flavored Markdown (YFM).
+* Excellent communication and collaboration skills
+* Team player
+* Skilled at prioritization and multi-tasking
+* Analytical and working very accurately and autonomously
+* Strong attention to detail
 
-***
-
-**Version control systems:**
-
-Git (GitHub).
-
-***
-
-**Static site generators:**
-
-Jekyll.
-
-***
-
-**Project management tools:** 
-
-Jira, Microsoft Project.
-
-***
-
-**Collaboration documentation tools:** 
-
-Confluence.
-
-***
-
-**Experience:**
+## Experience
 
 Sep 2019 – Present <br/> Independent contractor (Self-employed).
 
@@ -91,13 +101,13 @@ Oct 2009 – Jun 2010 <br/> Data analyst/Data Warehouse developer (TNK-BP).
 
 ***
 
-**Education:**
+## Education
 
 Saratov State Technical University. <br/> Engineer.
 
 ***
 
-**Courses and certificates:**
+## Courses and certificates
 
 SAP Certified Application Associate- Business Intelligence with SAP NetWeaver 7.0. <br/> SAP CIS (SAP).
 
