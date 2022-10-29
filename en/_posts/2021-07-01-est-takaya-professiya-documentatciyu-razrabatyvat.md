@@ -4,7 +4,7 @@ title:  "There is a profession to develope technical documentation"
 keywords: оформление технической документации, разработка технической документации, техписатель, блог технического писателя, технический писатель москва
 sidebar: general_sidebar_en
 published: true
-permalink: profession-about-technical-documentation-development.html
+permalink: en/profession-about-technical-documentation-development.html
 summary: ""
 tags: []
 ---
