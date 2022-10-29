@@ -6,21 +6,21 @@ entries:
   folders:
 
   - title: CV
-    url: en/index.html
+    url: index.html
     output: web
 
   - title: Why?
-    url: en/why.html
+    url: why.html
     output: web
 
   - title: Notes 
-    url: en/notes.html
+    url: notes.html
     output: web
   
   - title: Portfolio 
-    url: en/portfolio.html
+    url: portfolio.html
     output: web
   
   - title: Contacts 
-    url: en/contacts.html
+    url: contacts.html
     output: web
