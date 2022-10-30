@@ -5,6 +5,7 @@ keywords: технический писатель, блог техническо
 sidebar: general_sidebar
 permalink: index.html
 toc: false
+lang: "ru"
 summary: ""
 ---
 
