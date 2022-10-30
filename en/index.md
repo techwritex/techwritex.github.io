@@ -21,7 +21,7 @@ SAP Certified Business Intelligence (BI) consultant.
 
 ***
 
-## Core competencies
+### Core competencies
 
 **Core competencies**
 
@@ -38,7 +38,7 @@ SAP Certified Business Intelligence (BI) consultant.
 
 ***
 
-## Technical skills
+### Technical skills
 
 **Technical skills**
 
@@ -51,7 +51,7 @@ SAP Certified Business Intelligence (BI) consultant.
 
 ***
 
-## Soft skills
+### Soft skills
 
 **Soft skills**
 
@@ -61,7 +61,7 @@ SAP Certified Business Intelligence (BI) consultant.
 
 ***
 
-## Experience
+### Experience
 
 **Experience**
 
@@ -83,7 +83,7 @@ Oct 2009 – Jun 2010 <br/> Data analyst/Data Warehouse developer (TNK-BP).
 
 ***
 
-## Education
+### Education
 
 **Education**
 
@@ -91,7 +91,7 @@ Saratov State Technical University. <br/> Engineer.
 
 ***
 
-## Courses and certificates
+### Courses and certificates
 
 **Courses and certificates**
 
