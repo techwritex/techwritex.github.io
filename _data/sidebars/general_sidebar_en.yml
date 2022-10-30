@@ -9,9 +9,9 @@ entries:
     url: index.html
     output: web
 
-  - title: Why?
-    url: why.html
-    output: web
+  # - title: Why?
+  #   url: why.html
+  #   output: web
 
   # - title: Notes 
   #   url: notes.html
