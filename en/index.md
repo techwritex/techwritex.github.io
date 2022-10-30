@@ -27,7 +27,7 @@ SAP Certified Business Intelligence (BI) consultant.
     
     - Operational documentation (User manuals, Administrator and Developer guides);  
     - REST API documentation.
-    - Preparation of training materials (such as training programs, presentations, video scripts, etc.) for a corporate learning management system (LMS).
+    - Training materials (such as training programs, presentations, video scripts, etc.) for a corporate learning management system (LMS).
 
 - Data Warehousing.
 
