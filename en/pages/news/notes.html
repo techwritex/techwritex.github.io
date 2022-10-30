@@ -9,7 +9,7 @@ folder: en/news
 <div class="home">
 
     <div class="post-list">
-        {% assign related = site.related_posts | where:"lang", "en" %}
+        {% if page.lang == "en" %}
         {% for post in site.posts limit:100 %}
 
 
@@ -31,6 +31,6 @@ folder: en/news
 
 <hr />
         <!-- <p>See more posts from the <a href="news_archive.html">News Archive</a>. </p> -->
-
+        {% endif %}
     </div>
 </div>
