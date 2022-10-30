@@ -13,7 +13,7 @@ summary: ""
 
 ***
 
-**Technical writer** with 12+ years of experience in IT as a Data analyst, a Data Warehouse developer (Data engineer) and a Business intelligence consultant. 
+**Technical writer** with 12+ years of experience in IT as a data analyst, a data warehouse developer (data engineer) and a business intelligence consultant. 
 
 AWS Certified Solutions Architect.
 
@@ -23,14 +23,11 @@ SAP Certified Business Intelligence (BI) consultant.
 
 ### Core competencies
 
-**Core competencies**
-
 - Technical writing: 
     
     - Operational documentation (User manuals, Administrator and Developer guides);  
     - REST API documentation.
-
-- Preparation of training materials (such as training programs, presentations, video scripts, etc.) for a corporate learning management system (LMS).
+    - Preparation of training materials (such as training programs, presentations, video scripts, etc.) for a corporate learning management system (LMS).
 
 - Data Warehousing.
 
@@ -39,8 +36,6 @@ SAP Certified Business Intelligence (BI) consultant.
 ***
 
 ### Technical skills
-
-**Technical skills**
 
 * Programming languages: JS, SQL, ABAP.
 * Markup languages: HTML, Markdown, Yandex Flavored Markdown (YFM).
@@ -53,8 +48,6 @@ SAP Certified Business Intelligence (BI) consultant.
 
 ### Soft skills
 
-**Soft skills**
-
 * Excellent communication and collaboration skills.
 * Working very accurately and autonomously.
 * Strong attention to detail.
@@ -62,8 +55,6 @@ SAP Certified Business Intelligence (BI) consultant.
 ***
 
 ### Experience
-
-**Experience**
 
 Sep 2019 – Present <br/> Independent contractor (Self-employed).
 
@@ -85,15 +76,11 @@ Oct 2009 – Jun 2010 <br/> Data analyst/Data Warehouse developer (TNK-BP).
 
 ### Education
 
-**Education**
-
 Saratov State Technical University. <br/> Engineer.
 
 ***
 
 ### Courses and certificates
-
-**Courses and certificates**
 
 SAP Certified Application Associate- Business Intelligence with SAP NetWeaver 7.0. <br/> SAP CIS (SAP).
 
