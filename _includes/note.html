@@ -1,1 +1,7 @@
+{% if page.lang == "ru" %}
 <div markdown="span" class="alert alert-info" role="alert"><i class="fa fa-info-circle"></i> <b>Примечание:</b> {{include.content}}</div>
+{% endif %}
+
+{% if page.lang == "en" %}
+<div markdown="span" class="alert alert-info" role="alert"><i class="fa fa-info-circle"></i> <b>Note:</b> {{include.content}}</div>
+{% endif %}

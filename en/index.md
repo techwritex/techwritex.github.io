@@ -6,6 +6,7 @@ keywords:
 sidebar: general_sidebar_en
 permalink: en/index.html
 toc: false
+lang: "en"
 summary: ""
 ---
 
