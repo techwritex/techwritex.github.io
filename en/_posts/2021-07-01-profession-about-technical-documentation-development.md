@@ -6,6 +6,7 @@ sidebar: general_sidebar_en
 published: false
 permalink: profession-about-technical-documentation-development.html
 summary: ""
+lang: "en"
 tags: []
 ---
 

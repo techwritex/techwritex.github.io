@@ -9,6 +9,7 @@ folder: en/news
 <div class="home">
 
     <div class="post-list">
+        {% assign related = site.related_posts | where:"lang", "en" %}
         {% for post in site.posts limit:100 %}
 
 
