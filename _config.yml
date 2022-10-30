@@ -6,10 +6,10 @@ output: web
 topnav_title: Techwritex 
 # this appears on the top navigation bar next to the home button
 
-site_title: Технический писатель Владимир Юсупов 
+site_title: Технический писатель Владимир Юсупов, Technical writer Vladimir Yusupov
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
-company_name: Владимир Юсупов, технический писатель
+company_name: Techwritex
 # this appears in the footer
 
 # github_editme_path: 
