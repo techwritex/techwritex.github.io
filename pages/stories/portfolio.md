@@ -17,9 +17,9 @@ summary: ""
 
 ***
 
-**Художественные произведения:**
+<!-- **Художественные произведения:**
 
-- [Dobrastika - сборник коротких фантастических рассказов для детей](https://techwritex.github.io/dobrastika/).
+- [Dobrastika - сборник коротких фантастических рассказов для детей](https://techwritex.github.io/dobrastika/). -->
 
 
 {% include links.html %}
