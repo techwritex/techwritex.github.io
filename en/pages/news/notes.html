@@ -9,9 +9,9 @@ folder: en/news
 <div class="home">
 
     <div class="post-list">
-        {% if page.lang == "en" %}
+        
         {% for post in site.posts limit:100 %}
-
+        {% if post.lang == "en" %}
 
     <h2><a class="post-link" href="{{ post.url | remove: "/" }}">{{ post.title }}</a></h2>
         <!-- <span class="post-meta">{{ post.date | date: "%d.%m.%Y" }} /
@@ -24,13 +24,14 @@ folder: en/news
         <p>{% if page.summary %} {{ page.summary | strip_html | strip_newlines | truncate: 160 }} {% else %} {{ post.content | truncatewords: 38 | strip_html }} {% endif %}</p>
 
         <p class="post-read-more"><a href="{{ post.url | remove: "/" }}">Читать дальше... </a></p>
-
+        
+        {% endif %}
         {% endfor %}
 
         <!-- <p><a href="feed.xml" class="btn btn-primary navbar-btn cursorNorm" role="button">RSS Subscribe{{tag}}</a></p> -->
 
 <hr />
         <!-- <p>See more posts from the <a href="news_archive.html">News Archive</a>. </p> -->
-        {% endif %}
+        
     </div>
 </div>
