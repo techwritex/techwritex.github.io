@@ -24,3 +24,7 @@ entries:
   - title: Contacts 
     url: contacts.html
     output: web
+
+  - title: Russian 
+    url: ../index.html
+    output: web
