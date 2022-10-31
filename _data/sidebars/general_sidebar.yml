@@ -28,3 +28,7 @@ entries:
   - title: Контакты 
     url: contacts.html
     output: web
+
+  - title: English 
+    url: en/index.html
+    output: web
