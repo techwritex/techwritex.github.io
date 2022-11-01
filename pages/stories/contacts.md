@@ -11,7 +11,7 @@ summary: ""
 
 **Связаться со мной можно по следующим контактам:**
 
-- [Профиль на Linkedin](https://www.linkedin.com/in/vladimir-yusupov-sap-bi-consultant/).
+- [Профиль на Linkedin](https://www.linkedin.com/in/vladimir-yusupov-sap-bi-consultant-technical-communicator/).
 - vladimir(at)techwritex(dot)ru
 
 ***
