@@ -51,7 +51,6 @@ SAP Certified Business Intelligence (BI) consultant.
 
 * Excellent communication and collaboration skills.
 * Working very accurately and autonomously.
-* Strong attention to detail.
 
 ***
 
