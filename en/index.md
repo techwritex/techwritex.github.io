@@ -44,6 +44,7 @@ SAP Certified Business Intelligence (BI) consultant.
 * Static site generators: Jekyll.
 * Project management tools: Jira, Microsoft Project.
 * Collaboration documentation tools: Confluence.
+* Reporting and analysis tools: SAP Business Objects Web Intelligence (WebI).
 
 ***
 

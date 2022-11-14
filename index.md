@@ -43,6 +43,7 @@ summary: ""
 * Генераторы статических сайтов: Jekyll.
 * Инструменты проектного управления: Jira, Microsoft Project.
 * Инструменты публикации документации: Confluence.
+* Инструменты отчётности и анализа: SAP Business Objects Web Intelligence (WebI).
 
 ***
 
