@@ -13,9 +13,9 @@ entries:
   #   url: why.html
   #   output: web
 
-  # - title: Notes 
-  #   url: notes.html
-  #   output: web
+  - title: Notes 
+    url: notes.html
+    output: web
   
   - title: Portfolio 
     url: portfolio.html
