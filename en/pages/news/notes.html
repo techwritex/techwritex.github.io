@@ -23,7 +23,7 @@ folder: en/news
             <span class="post-meta">{{ post.date | date: "%d.%m.%Y" }}</span>
         <p>{% if page.summary %} {{ page.summary | strip_html | strip_newlines | truncate: 160 }} {% else %} {{ post.content | truncatewords: 38 | strip_html }} {% endif %}</p>
 
-        <p class="post-read-more"><a href="{{ post.url | remove: "/" }}">Читать дальше... </a></p>
+        <p class="post-read-more"><a href="{{ post.url | remove: "/" }}">Read more... </a></p>
         
         {% endif %}
         {% endfor %}
