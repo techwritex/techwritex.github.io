@@ -14,7 +14,7 @@ entries:
   #   output: web
 
   - title: Notes 
-    url: notes.html
+    url: notes_en.html
     output: web
   
   - title: Portfolio 
