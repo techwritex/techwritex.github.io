@@ -2,16 +2,16 @@
 title: Notes
 sidebar: general_sidebar_en
 keywords: 
-permalink: notes.html
+permalink: en/notes_en.html
 toc: false
-folder: news
+folder: en/news
 ---
 <div class="home">
 
     <div class="post-list">
         
         {% for post in site.posts limit:100 %}
-        {% if post.lang == "en" %}
+        {% if post.lang == "en" %} 
 
     <h2><a class="post-link" href="{{ post.url | remove: "/" }}">{{ post.title }}</a></h2>
         <!-- <span class="post-meta">{{ post.date | date: "%d.%m.%Y" }} /
