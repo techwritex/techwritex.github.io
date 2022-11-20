@@ -57,21 +57,21 @@ SAP Certified Business Intelligence (BI) consultant.
 
 ### Experience
 
-Sep 2019 – Present <br/> Independent contractor (Self-employed).
+Sep 2019 – Present <br/> Independent contractor (Self-employed)
 
-Apr 2020 – Present <br/> Business intelligence expert (Nornickel).
+Apr 2020 – Present <br/> Business intelligence expert (Nornickel)
 
-Jan 2017 – Mar 2020  <br/> Lead Business intelligence consultant (Nornickel).
+Jan 2017 – Mar 2020  <br/> Lead Business intelligence consultant (Nornickel)
 
-Jul 2016 – Jan 2017 <br/> Business intelligence consultant (Rosatom).
+Jul 2016 – Jan 2017 <br/> Business intelligence consultant (Rosatom)
 
-Jul 2013 – Jul 2016  <br/> Data Warehouse developer (Rosneft).
+Jul 2013 – Jul 2016  <br/> Data Warehouse developer (Rosneft)
 
-Jul 2011 – Jul 2013 <br/> Data analyst/Data Warehouse developer (TNK-BP).
+Jul 2011 – Jul 2013 <br/> Data analyst/Data Warehouse developer (TNK-BP)
 
-Jun 2010 – Jul 2011 <br/> Data Warehouse developer (BDO).
+Jun 2010 – Jul 2011 <br/> Data Warehouse developer (BDO)
 
-Oct 2009 – Jun 2010 <br/> Data analyst/Data Warehouse developer (TNK-BP).
+Oct 2009 – Jun 2010 <br/> Data analyst/Data Warehouse developer (TNK-BP)
 
 ***
 
