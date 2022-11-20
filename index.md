@@ -76,18 +76,21 @@ summary: ""
 
 ### Образование
 
-Саратовский государственный технический университет. <br/> Инженер.
+Саратовский государственный технический университет <br/> Инженер
 
 ***
 
 ### Курсы и сертификации
 
-SAP Certified Application Associate- Business Intelligence with SAP NetWeaver 7.0. <br/> САП СНГ (SAP).
+Academic writing <br/> 
+TUM Language Center (Technical University of Munich).
 
-AWS Certified Solutions Architect - Associate. <br/> Amazon Web Services.
+SAP Certified Application Associate- Business Intelligence with SAP NetWeaver 7.0 <br/> САП СНГ (SAP)
 
-AWS Certified Cloud Practitioner. <br/> Amazon Web Services.
+AWS Certified Solutions Architect - Associate <br/> Amazon Web Services
 
-Специалист JavaScript. <br/> Учебный центр "Специалист" при МГТУ им. Н.Э. Баумана.
+AWS Certified Cloud Practitioner <br/> Amazon Web Services
+
+Специалист JavaScript <br/> Учебный центр "Специалист" при МГТУ им. Н.Э. Баумана
 
 {% include links.html %}

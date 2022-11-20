@@ -77,18 +77,21 @@ Oct 2009 – Jun 2010 <br/> Data analyst/Data Warehouse developer (TNK-BP).
 
 ### Education
 
-Saratov State Technical University. <br/> Engineer.
+Saratov State Technical University <br/> Engineer
 
 ***
 
 ### Courses and certificates
 
-SAP Certified Application Associate- Business Intelligence with SAP NetWeaver 7.0. <br/> SAP CIS (SAP).
+Academic writing <br/> 
+TUM Language Center (Technical University of Munich)
 
-AWS Certified Solutions Architect - Associate. <br/> Amazon Web Services.
+SAP Certified Application Associate- Business Intelligence with SAP NetWeaver 7.0 <br/> SAP CIS (SAP)
 
-AWS Certified Cloud Practitioner. <br/> Amazon Web Services.
+AWS Certified Solutions Architect - Associate <br/> Amazon Web Services
 
-JavaScript developer. <br/> Computer Training Center "Specialist" at The Bauman Moscow State Technical University.
+AWS Certified Cloud Practitioner <br/> Amazon Web Services
+
+JavaScript developer <br/> Computer Training Center "Specialist" at The Bauman Moscow State Technical University
 
 {% include links.html %}
