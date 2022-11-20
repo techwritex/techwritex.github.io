@@ -2,9 +2,9 @@
 title: Notes
 sidebar: general_sidebar_en
 keywords: 
-permalink: en/notes.html
+permalink: notes.html
 toc: false
-folder: en/news
+folder: news
 ---
 <div class="home">
 
@@ -13,7 +13,7 @@ folder: en/news
         {% for post in site.posts limit:100 %}
         {% if post.lang == "en" %}
 
-    <h2><a class="post-link" href="en/{{ post.url | remove: "/" }}">{{ post.title }}</a></h2>
+    <h2><a class="post-link" href="{{ post.url | remove: "/" }}">{{ post.title }}</a></h2>
         <!-- <span class="post-meta">{{ post.date | date: "%d.%m.%Y" }} /
             {% for tag in post.tags %}
 
@@ -23,7 +23,7 @@ folder: en/news
             <span class="post-meta">{{ post.date | date: "%d.%m.%Y" }}</span>
         <p>{% if page.summary %} {{ page.summary | strip_html | strip_newlines | truncate: 160 }} {% else %} {{ post.content | truncatewords: 38 | strip_html }} {% endif %}</p>
 
-        <p class="post-read-more"><a href="en/{{ post.url | remove: "/" }}">Read more... </a></p>
+        <p class="post-read-more"><a href="{{ post.url | remove: "/" }}">Read more... </a></p>
         
         {% endif %}
         {% endfor %}
