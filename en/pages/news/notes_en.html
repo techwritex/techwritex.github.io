@@ -13,7 +13,7 @@ folder: en/news
         {% for post in site.posts limit:100 %}
         {% if post.lang == "en" %} 
 
-    <h2><a class="post-link" href="{{ post.url | remove: "/" }}">{{ post.title }}</a></h2>
+    <h2><a class="post-link" href="../{{ post.url | remove: "/" }}">{{ post.title }}</a></h2>
         <!-- <span class="post-meta">{{ post.date | date: "%d.%m.%Y" }} /
             {% for tag in post.tags %}
 
