@@ -4,7 +4,7 @@ title:  "Book Review: On Writing Well by William Zinsser (from a technical write
 keywords: book review, on writing well, william zinsser, technical writer, techwriter
 sidebar: general_sidebar_en
 published: true
-permalink: book-review-on-writing-well-william-zinsser.html
+permalink: ../book-review-on-writing-well-william-zinsser.html
 summary: ""
 lang: "en"
 tags: []
