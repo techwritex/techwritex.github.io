@@ -2,7 +2,7 @@
 title:  "Book Review: On Writing Well by William Zinsser (from a technical writer's point of view)"
 # author: 'Владимир Юсупов'
 keywords: book review, on writing well, william zinsser, technical writer, techwriter
-sidebar: general_sidebar_en
+sidebar: general_sidebar_en_post
 published: true
 permalink: book-review-on-writing-well-william-zinsser.html
 summary: ""

@@ -1,0 +1,30 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: 
+  folders:
+
+  - title: CV
+    url: en/index.html
+    output: web
+
+  # - title: Why?
+  #   url: why.html
+  #   output: web
+
+  - title: Notes 
+    url: en/notes_en.html
+    output: web
+  
+  - title: Portfolio 
+    url: en/portfolio.html
+    output: web
+  
+  - title: Contacts 
+    url: en/contacts.html
+    output: web
+
+  - title: Russian 
+    url: index.html
+    output: web
