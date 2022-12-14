@@ -11,7 +11,9 @@ summary: ""
 
 **Some examples of my technical documentation:**
 
-- [Amazon Redshift Data Warehouse. Developer guide (in Russian)](https://techwritex.github.io/aws_docs/).
+- [AWS Data Warehouse deployment](https://techwritex.github.io/aws_docs_en/).
+
+- [AWS Data Warehouse deployment (in Russian)](https://techwritex.github.io/aws_docs/).
 
 - [API documentation for Russian public initiative (in Russian)](https://techwritex.github.io/roi_api/).
 
