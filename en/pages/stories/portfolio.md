@@ -15,7 +15,9 @@ summary: ""
 
 - [AWS Data Warehouse deployment (in Russian)](https://techwritex.github.io/aws_docs/).
 
-- [API documentation for Russian public initiative (in Russian)](https://techwritex.github.io/roi_api/).
+- [ROI API Documentation](https://techwritex.ru/roi_api_en/).
+
+- [ROI API Documentation (in Russian)](https://techwritex.github.io/roi_api/).
 
 
 {% include links.html %}

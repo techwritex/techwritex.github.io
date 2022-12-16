@@ -11,11 +11,17 @@ summary: ""
 
 **Примеры некоторых работ по подготовке технической документации:**
 
-- [Разработка хранилища данных на AWS](https://techwritex.github.io/aws_docs/).
+1. Документация на английском языке
 
-- [AWS Data Warehouse deployment (in English)](https://techwritex.github.io/aws_docs_en/).
+    - [AWS Data Warehouse deployment](https://techwritex.github.io/aws_docs_en/).
 
-- [Документирование API портала "Российская общественная инициатива"](https://techwritex.github.io/roi_api/).
+    - [ROI API Documentation](https://techwritex.ru/roi_api_en/).
+
+2. Документация на русском языке
+
+    - [Разработка хранилища данных на AWS](https://techwritex.github.io/aws_docs/).
+
+    - [Документирование API портала "Российская общественная инициатива"](https://techwritex.github.io/roi_api/).
 
 ***
 
