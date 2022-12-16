@@ -44,6 +44,7 @@ summary: ""
 * Инструменты проектного управления: Jira, Microsoft Project.
 * Инструменты публикации документации: Confluence.
 * Инструменты отчётности и анализа: SAP Business Objects Web Intelligence (WebI).
+* Инструменты ведения разработки и написания кода: VS Code, Eclipse IDE.
 
 ***
 

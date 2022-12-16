@@ -32,7 +32,7 @@ SAP Certified Business Intelligence (BI) consultant.
 
 - Data Warehousing.
 
-- Data visualization.
+- Data Visualization.
 
 ***
 
@@ -45,6 +45,7 @@ SAP Certified Business Intelligence (BI) consultant.
 * Project management tools: Jira, Microsoft Project.
 * Collaboration documentation tools: Confluence.
 * Reporting and analysis tools: SAP Business Objects Web Intelligence (WebI).
+* IDEs and code editors: VS Code, Eclipse IDE.
 
 ***
 
