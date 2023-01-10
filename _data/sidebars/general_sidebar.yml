@@ -20,6 +20,10 @@ entries:
   # - title: Исследование 
   #   url: survey.html
   #   output: web
+
+  - title: Памятка 
+    url: pamyatka.html
+    output: web
   
   - title: Портфолио 
     url: portfolio.html
