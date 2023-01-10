@@ -43,6 +43,7 @@ SAP Certified Business Intelligence (BI) consultant.
 * Version control systems: Git (GitHub).
 * Static site generators: Jekyll.
 * Project management tools: Jira, Microsoft Project.
+* Diagramming software: Microsoft Visio.
 * Collaboration documentation tools: Confluence.
 * Reporting and analysis tools: SAP Business Objects Web Intelligence (WebI).
 * IDEs and code editors: VS Code, Eclipse IDE.

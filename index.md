@@ -42,6 +42,7 @@ summary: ""
 * Системы управления версиями: Git (GitHub).
 * Генераторы статических сайтов: Jekyll.
 * Инструменты проектного управления: Jira, Microsoft Project.
+* Интсрументы разработки диаграмм и блок-схем: Microsoft Visio.
 * Инструменты публикации документации: Confluence.
 * Инструменты отчётности и анализа: SAP Business Objects Web Intelligence (WebI).
 * Инструменты ведения разработки и написания кода: VS Code, Eclipse IDE.
