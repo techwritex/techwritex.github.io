@@ -19,5 +19,7 @@ summary: ""
 
 - [ROI API Documentation (in Russian)](https://techwritex.github.io/roi_api/).
 
+- [Icons8 Lunacy Home Tab description](https://techwritex.ru/lunacy_home_tab/).
+
 
 {% include links.html %}

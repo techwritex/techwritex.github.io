@@ -17,6 +17,8 @@ summary: ""
 
     - [ROI API Documentation](https://techwritex.ru/roi_api_en/).
 
+    - [Icons8 Lunacy Home Tab description](https://techwritex.ru/lunacy_home_tab/).
+
 2. Документация на русском языке
 
     - [Разработка хранилища данных на AWS](https://techwritex.github.io/aws_docs/).
