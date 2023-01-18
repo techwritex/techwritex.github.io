@@ -5,34 +5,18 @@ entries:
   product: 
   folders:
 
-  - title: Резюме
+  - title: Введение
     url: index.html
     output: web
 
-  - title: Зачем?
-    url: why.html
+  - title: Процесс
+    url: index.html
     output: web
 
-  - title: Заметки 
-    url: notes.html
+  - title: Оформление 
+    url: index.html
     output: web
 
-  # - title: Исследование 
-  #   url: survey.html
-  #   output: web
-
-  - title: Памятка 
-    url: pamyatka.html
-    output: web
-  
-  - title: Портфолио 
-    url: portfolio.html
-    output: web
-  
-  - title: Контакты 
-    url: contacts.html
-    output: web
-
-  - title: English 
-    url: en/index.html
+  - title: Заключение 
+    url: index.html
     output: web
