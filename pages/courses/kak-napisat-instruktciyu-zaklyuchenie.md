@@ -1,10 +1,10 @@
 ---
-title: Как написать понятную инструкцию?
+title: Оформление инструкции
 keywords: 
 sidebar: course_sidebar
-permalink: kak-napisat-instruktciyu.html
+permalink: kak-napisat-instruktciyu-zaklyuchenie.html
 folder: courses
-toc: false
+toc: true
 lang: "ru"
 summary: ""
 ---

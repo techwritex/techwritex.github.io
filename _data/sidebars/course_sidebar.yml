@@ -6,16 +6,12 @@ entries:
   folders:
 
   - title: Введение
-    url: index.html
+    url: kak-napisat-instruktciyu-vvedenie.html
     output: web
 
   - title: Процесс
-    url: index.html
+    url: kak-napisat-instruktciyu-protcess.html
     output: web
-
-  # - title: Подготовка
-  #   url: index.html
-  #   output: web
 
   # - title: Подготовка
   #   url: index.html
@@ -34,7 +30,7 @@ entries:
   #   output: web
 
   - title: Оформление 
-    url: index.html
+    url: kak-napisat-instruktciyu-oformlenie.html
     output: web
 
   # - title: Заголовки
@@ -58,5 +54,5 @@ entries:
   #   output: web
 
   - title: Заключение 
-    url: index.html
+    url: kak-napisat-instruktciyu-zaklyuchenie.html
     output: web
