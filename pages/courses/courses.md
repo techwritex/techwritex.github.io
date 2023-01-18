@@ -1,7 +1,7 @@
 ---
-title: Курсы
+title: Как написать понятную инструкцию?
 keywords: технический писатель, разработка техдокументации, документирование API, технический писатель фриланс, технический писатель на подряд
-sidebar: general_sidebar
+sidebar: home_sidebar
 permalink: courses.html
 folder: courses
 summary: ""
@@ -19,8 +19,5 @@ summary: ""
 Все курсы бесплатные и, что называется, "без смс и регистрации".
 
 ***
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdng0u1Da5K1ZKF56wwm5mHIKx-2Hqb9Vx-NIiu5n5A5X1KBg/viewform?embedded=true" width="640" height="1443" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-
 
 {% include links.html %}
