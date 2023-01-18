@@ -1,7 +1,7 @@
 ---
-title: Как написать инструкцию
+title: Как написать понятную инструкцию?
 keywords: 
-sidebar: general_sidebar
+sidebar: course_sidebar
 permalink: kak-napisat-instruktciyu.html
 folder: courses
 toc: false
