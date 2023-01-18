@@ -10,8 +10,20 @@ entries:
     output: web
 
   - title: Процесс
-    url: index.html
     output: web
+    folderitems:
+    - title: Подготовка
+      url: index.html
+      output: web
+    - title: Разработка
+      url: index.html
+      output: web
+    - title: Согласование
+      url: index.html
+      output: web
+    - title: Публикация
+      url: index.html
+      output: web
 
   - title: Оформление 
     url: index.html
