@@ -1,18 +1,58 @@
-
-# Follow the pattern here for the URLs -- no slash at the beginning, and include the .html. The link here is rendered exactly as is in the Markdown references.
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
 
 entries:
-- title: other
+- title: sidebar
+  product: 
   folders:
 
-  - title: Other Links
-    folderitems:
+  - title: Введение
+    url: index.html
+    output: web
 
-    - title: Automated links bookmark
-      url: /mydoc_hyperlinks.html#automatedlinks
+  - title: Процесс
+    url: index.html
+    output: web
 
-    - title: Bookmark links
-      url: /mydoc_hyperlinks.html#bookmarklinks
+      - title: Подготовка
+        url: index.html
+        output: web
+      
+      - title: Разработка
+        url: index.html
+        output: web
 
-    - title: Some link bookmark
-      url: /mydoc_pages.html#someIdTag
+      - title: Согласование
+        url: index.html
+        output: web
+
+      - title: Публикация
+        url: index.html
+        output: web
+
+  - title: Офромление
+    url: index.html
+    output: web
+
+      - title: Заголовки
+        url: index.html
+        output: web
+
+      - title: Списки
+        url: index.html
+        output: web
+
+      - title: Таблицы
+        url: index.html
+        output: web
+
+      - title: Иллюстрации
+        url: index.html
+        output: web
+
+      - title: Числа
+        url: index.html
+        output: web
+
+  - title: Окончание
+    url: index.html
+    output: web

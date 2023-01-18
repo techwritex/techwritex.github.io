@@ -1,7 +1,7 @@
 ---
 title: Как написать понятную инструкцию?
 keywords: технический писатель, разработка техдокументации, документирование API, технический писатель фриланс, технический писатель на подряд
-sidebar: course_sidebar
+sidebar: other
 permalink: courses.html 
 folder: courses
 summary: ""
