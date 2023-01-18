@@ -10,24 +10,52 @@ entries:
     output: web
 
   - title: Процесс
+    url: index.html
     output: web
-    folderitems:
-    - title: Подготовка
-      url: index.html
-      output: web
-    - title: Разработка
-      url: index.html
-      output: web
-    - title: Согласование
-      url: index.html
-      output: web
-    - title: Публикация
-      url: index.html
-      output: web
+
+  # - title: Подготовка
+  #   url: index.html
+  #   output: web
+
+  # - title: Подготовка
+  #   url: index.html
+  #   output: web
+  
+  # - title: Разработка
+  #   url: index.html
+  #   output: web
+  
+  # - title: Согласование
+  #   url: index.html
+  #   output: web
+  
+  # - title: Публикация
+  #   url: index.html
+  #   output: web
 
   - title: Оформление 
     url: index.html
     output: web
+
+  # - title: Заголовки
+  #   url: index.html
+  #   output: web
+
+  # - title: Таблицы
+  #   url: index.html
+  #   output: web
+  
+  # - title: Списки
+  #   url: index.html
+  #   output: web
+  
+  # - title: Иллюстрации
+  #   url: index.html
+  #   output: web
+  
+  # - title: Числа
+  #   url: index.html
+  #   output: web
 
   - title: Заключение 
     url: index.html
