@@ -2,7 +2,6 @@
 
 entries:
 - title: sidebar
-  version: 1.0
   product: 
   folders:
 
@@ -14,46 +13,14 @@ entries:
     url: kak-napisat-instruktciyu-protcess.html
     output: web
 
-  # - title: Подготовка
-  #   url: index.html
-  #   output: web
-  
-  # - title: Разработка
-  #   url: index.html
-  #   output: web
-  
-  # - title: Согласование
-  #   url: index.html
-  #   output: web
-  
-  # - title: Публикация
-  #   url: index.html
-  #   output: web
-
   - title: Оформление 
     url: kak-napisat-instruktciyu-oformlenie.html
     output: web
 
-  # - title: Заголовки
-  #   url: index.html
-  #   output: web
-
-  # - title: Таблицы
-  #   url: index.html
-  #   output: web
-  
-  # - title: Списки
-  #   url: index.html
-  #   output: web
-  
-  # - title: Иллюстрации
-  #   url: index.html
-  #   output: web
-  
-  # - title: Числа
-  #   url: index.html
-  #   output: web
-
   - title: Заключение 
     url: kak-napisat-instruktciyu-zaklyuchenie.html
+    output: web
+
+  - title: version 1.0
+    url: kak-napisat-instruktciyu-log.html
     output: web
