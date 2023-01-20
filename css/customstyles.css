@@ -599,7 +599,9 @@ a.fa.fa-envelope-o.mailto {
 }
 
 h3 {color: #ED1951; font-weight:normal; font-size:130%;}
-h4 {color: #808080; font-weight:normal; font-size:120%; font-style:italic;}
+/* h4 change */
+/* h4 {color: #808080; font-weight:normal; font-size:120%; font-style:italic;} */
+h4 {color: #000000; font-weight:normal; font-size:120%;}
 
 .alert, .callout {
     overflow: hidden;
