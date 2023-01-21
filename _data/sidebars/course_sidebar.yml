@@ -20,7 +20,3 @@ entries:
   - title: Заключение 
     url: kak-napisat-instruktciyu-zaklyuchenie.html
     output: web
-
-  - title: version 0.1
-    url: kak-napisat-instruktciyu-log.html
-    output: web
