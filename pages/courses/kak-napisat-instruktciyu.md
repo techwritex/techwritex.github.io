@@ -557,8 +557,8 @@ summary: ""
     </thead>
     <tbody>
         <tr>
-            <td markdown="span"><h2>Заголовок первого уровня</h2> <br> <h2>Заголовок второго уровня</h2> <br> <h2>Заголовок третьего уровня</h2></td>
-            <td markdown="span"><h2>Заголовок первого уровня</h2> <br> <h3>Заголовок второго уровня</h3> <br> <h4>Заголовок третьего уровня</h4></td>
+            <td markdown="span"><span style="font-size: 26px">Заголовок первого уровня</span> <br> <span style="font-size: 26px">Заголовок второго уровня</span> <br> <span style="font-size: 26px">Заголовок третьего уровня</span></td>
+            <td markdown="span"><span style="font-size: 26px">Заголовок первого уровня</span> <br> <span style="font-size: 22px">Заголовок второго уровня</span> <br> <span style="font-size: 20px">Заголовок третьего уровня</span></td>
         </tr>
     </tbody>
 </table>
