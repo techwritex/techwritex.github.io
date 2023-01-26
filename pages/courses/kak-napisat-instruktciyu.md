@@ -811,7 +811,7 @@ summary: ""
 При этом обращение к таблицам в тексте документа должно выполняться по их номерам, а не по их расположению в тексте. Сравните два представленных варианта (Таблица 11).
 
 <table>
-    <caption style="color: #D3D3D3; text-align: right;">Таблица 11. Ссылка на таблицу</caption>
+    <caption style="color: #6c6c6c; text-align: right;">Таблица 11. Ссылка на таблицу</caption>
     <colgroup>
     <col width="50%" />
     <col width="50%" />
