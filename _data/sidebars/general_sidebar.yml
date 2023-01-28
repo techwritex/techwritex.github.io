@@ -21,8 +21,12 @@ entries:
   #   url: survey.html
   #   output: web
 
-  - title: Памятка 
-    url: pamyatka.html
+  # - title: Памятка 
+  #   url: pamyatka.html 
+  #   output: web
+
+  - title: Инструкция 
+    url: kak-napisat-instruktciyu.html
     output: web
   
   - title: Портфолио 
