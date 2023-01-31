@@ -14,7 +14,7 @@ summary: ""
 
 ***
 
-**Technical writer** with 12+ years of experience in IT as a data analyst, data warehouse developer (data engineer) and business intelligence consultant. 
+**Technical writer** (technical communicator) with 12+ years of experience in IT as a data analyst, data warehouse developer (data engineer) and business intelligence consultant. 
 
 AWS Certified Solutions Architect.
 
