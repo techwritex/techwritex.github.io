@@ -38,59 +38,67 @@ tags: []
 
 1. Создайте раздел **Уровень распространения**, в который включите страницы в соответствии с наименованиями повторяющихся разделов Вашей документации. Например, **Назначение системы** и **Список сокращений** (Рисунок 1).
 
-<p>
-    <figure>
-        <img src="{{ "images/single-source-1.jpeg" }}" alt="Разделы уровня распространения" style="border: 0px solid #D3D3D3;"/>
-        <figcaption style="color: #6c6c6c; text-align: center;">Рисунок 1. Разделы уровня распространения</figcaption>
-    </figure>
-</p>
+    <p>
+        <figure>
+            <img src="{{ "images/single-source-1.jpeg" }}" alt="Разделы уровня распространения" style="border: 0px solid #D3D3D3;"/>
+            <figcaption style="color: #6c6c6c; text-align: center;">Рисунок 1. Разделы уровня распространения</figcaption>
+        </figure>
+    </p>
 
-{% include note.html content="так как уровень распространения может содержать большой объем информации по разным документам, то добавьте понятную для Вас и Ваших коллег структуру." %}
+    {% include note.html content="так как уровень распространения может содержать большой объем информации по разным документам, то добавьте понятную для Вас и Ваших коллег структуру." %}
+
+<br>
 
 2. Создайте раздел **Документация**, в который добавьте структуру разрабатываемых документов. Например, **Руководство администратора**, **Руководство оператора** и **Руководство пользователя отчетности** (Рисунок 2).
 
-<p>
-    <figure>
-        <img src="{{ "images/single-source-2.jpeg" }}" alt="Разделы с целевыми документами" style="border: 0px solid #D3D3D3;"/>
-        <figcaption style="color: #6c6c6c; text-align: center;">Рисунок 2. Разделы с целевыми документами</figcaption>
-    </figure>
-</p>
+    <p>
+        <figure>
+            <img src="{{ "images/single-source-2.jpeg" }}" alt="Разделы с целевыми документами" style="border: 0px solid #D3D3D3;"/>
+            <figcaption style="color: #6c6c6c; text-align: center;">Рисунок 2. Разделы с целевыми документами</figcaption>
+        </figure>
+    </p>
+
+<br>
 
 3. Проработайте и отразите взаимосвязи информации из уровня распространения (источник) и конечными документами (цель) (Рисунок 3).
 
-<p>
-    <figure>
-        <img src="{{ "images/single-source-3.jpeg" }}" alt="Связи между документами" style="border: 0px solid #D3D3D3;"/>
-        <figcaption style="color: #6c6c6c; text-align: center;">Рисунок 3. Связи между документами</figcaption>
-    </figure>
-</p>
+    <p>
+        <figure>
+            <img src="{{ "images/single-source-3.jpeg" }}" alt="Связи между документами" style="border: 0px solid #D3D3D3;"/>
+            <figcaption style="color: #6c6c6c; text-align: center;">Рисунок 3. Связи между документами</figcaption>
+        </figure>
+    </p>
 
-{% include note.html content="данный шаг позволит быстро отследить документы, на которые окажут влияние изменения в источниках при дальнейшем сопровождении документации." %}
+    {% include note.html content="данный шаг позволит быстро отследить документы, на которые окажут влияние изменения в источниках при дальнейшем сопровождении документации." %}
+
+<br>
 
 4. Наполните повторяющиеся разделы документации из уровня распространения необходимой информацией с помощью макроса **Выборка (Excerpt)**. На примере раздела **Назначение системы** (Рисунок 4).
 
-<p>
-    <figure>
-        <img src="{{ "images/single-source-4.jpeg" }}" alt="Применение макроса Выборка" style="border: 0px solid #D3D3D3;"/>
-        <figcaption style="color: #6c6c6c; text-align: center;">Рисунок 4. Применение макроса Выборка</figcaption>
-    </figure>
-</p>
+    <p>
+        <figure>
+            <img src="{{ "images/single-source-4.jpeg" }}" alt="Применение макроса Выборка" style="border: 0px solid #D3D3D3;"/>
+            <figcaption style="color: #6c6c6c; text-align: center;">Рисунок 4. Применение макроса Выборка</figcaption>
+        </figure>
+    </p>
+
+<br>
 
 5. Добавьте в структуры Ваших документов необходимую информацию из уровня распространения с помощью макроса **Включить выборку**. На примере **Руководства администратора** (Рисунки 5.1-5.2).
 
-<p>
-    <figure>
-        <img src="{{ "images/single-source-5-2.jpeg" }}" alt="Применение макроса Включить выборку" style="border: 0px solid #D3D3D3;"/>
-        <figcaption style="color: #6c6c6c; text-align: center;">Рисунок 5.1. Применение макроса Включить выборку</figcaption>
-    </figure>
-</p>
+    <p>
+        <figure>
+            <img src="{{ "images/single-source-5-2.jpeg" }}" alt="Применение макроса Включить выборку" style="border: 0px solid #D3D3D3;"/>
+            <figcaption style="color: #6c6c6c; text-align: center;">Рисунок 5.1. Применение макроса Включить выборку</figcaption>
+        </figure>
+    </p>
 
-<p>
-    <figure>
-        <img src="{{ "images/single-source-5-1.jpeg" }}" alt="Результат применения макроса Включить выборку" style="border: 0px solid #D3D3D3;"/>
-        <figcaption style="color: #6c6c6c; text-align: center;">Рисунок 5.2. Результат применения макроса Включить выборку</figcaption>
-    </figure>
-</p>
+    <p>
+        <figure>
+            <img src="{{ "images/single-source-5-1.jpeg" }}" alt="Результат применения макроса Включить выборку" style="border: 0px solid #D3D3D3;"/>
+            <figcaption style="color: #6c6c6c; text-align: center;">Рисунок 5.2. Результат применения макроса Включить выборку</figcaption>
+        </figure>
+    </p>
 
 ***
 
