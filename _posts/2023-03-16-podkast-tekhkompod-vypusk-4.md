@@ -15,13 +15,7 @@ tags: []
 
 <div id="buzzsprout-player-12452209"></div><script src="https://www.buzzsprout.com/2126226/12452209-4.js?container_id=buzzsprout-player-12452209&player=small" type="text/javascript" charset="utf-8"></script>
 
-<br>
-
-<div>
-      <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS8yMTI2MjI2LnJzcw">
-        <img src="https://www.gstatic.com/podcasts_console/promote/Russian_RU/RU_Google_Podcasts_Badge.svg" width="150" height="38" alt="Listen on Google Podcasts">
-      </a>
-</div>
+{% include podcast_share.html %}
 
 ***
 ### 00:00 - 00:51 Приветствие
