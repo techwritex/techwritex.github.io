@@ -21,6 +21,8 @@ tags: []
 
 <div id="buzzsprout-player-12171409"></div><script src="https://www.buzzsprout.com/2126226/12171409-1.js?container_id=buzzsprout-player-12171409&player=small" type="text/javascript" charset="utf-8"></script>
 
+{% include podcast_share.html %}
+
 ***
 ### 00:00 - 00:57 Вступление
 

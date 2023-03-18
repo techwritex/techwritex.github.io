@@ -15,6 +15,8 @@ tags: []
 
 <div id="buzzsprout-player-12359200"></div><script src="https://www.buzzsprout.com/2126226/12359200-3.js?container_id=buzzsprout-player-12359200&player=small" type="text/javascript" charset="utf-8"></script>
 
+{% include podcast_share.html %}
+
 ***
 ### 00:00 - 00:54 Приветствие
 
