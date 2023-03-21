@@ -2,7 +2,7 @@
 title: Podcast
 keywords: 
 sidebar: general_sidebar
-permalink: podcast/index.html
+permalink: podcast/index.html 
 folder: podcast
 toc: true
 lang: "ru"
