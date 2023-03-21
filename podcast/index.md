@@ -1,10 +1,11 @@
 ---
-title: Podcast
+title: "Podcast"
 keywords: 
+# tags:
+# hide_sidebar: true
 sidebar: general_sidebar
-permalink: podcast/index.html 
-folder: podcast
-toc: true
+permalink: podcast/index.html
+toc: false
 lang: "ru"
 summary: ""
 ---
