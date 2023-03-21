@@ -3,7 +3,7 @@ title: "Podcast"
 keywords: 
 # tags:
 # hide_sidebar: true
-sidebar: general_sidebar
+sidebar: general_sidebar_podcast
 permalink: podcast/index.html
 toc: false
 lang: "ru"
