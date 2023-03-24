@@ -18,7 +18,7 @@ entries:
     output: web
 
   - title: Подкаст 
-    url: ../podcast_techcommpod.html
+    url: https://techcommpod.ru
     output: web
 
   - title: Инструкция 
