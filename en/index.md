@@ -38,7 +38,7 @@ SAP Certified Business Intelligence (BI) consultant.
 
 ### Technical skills
 
-* Programming languages: JS, SQL, ABAP.
+* Programming languages: JS, SQL.
 * Markup languages: HTML, Markdown, Yandex Flavored Markdown (YFM).
 * Version control systems: Git (GitHub).
 * Static site generators: Jekyll.
