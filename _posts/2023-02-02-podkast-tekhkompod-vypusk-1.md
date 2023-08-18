@@ -25,7 +25,7 @@ tags: []
 
 <figure>
     <figcaption></figcaption>
-    <audio controls src="{{site.url}}{{site.baseurl}}/assets/episodes/001_episode_final.mp3">
+    <audio controls src="https://techcommpod.ru/assets/episodes/001_episode_final.mp3">
         <a href="https://techcommpod.ru/assets/episodes/001_episode_final.mp3"> Скачать файл </a>
     </audio>
 </figure>
