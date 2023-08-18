@@ -13,9 +13,16 @@ tags: []
 
 Небольшое дополнение к [выпуску о едином источнике правды документации](https://techwritex.ru/podkast-tekhkompod-vypusk-2.html).
 
-<div id="buzzsprout-player-12452209"></div><script src="https://www.buzzsprout.com/2126226/12452209-4.js?container_id=buzzsprout-player-12452209&player=small" type="text/javascript" charset="utf-8"></script>
+<!-- <div id="buzzsprout-player-12452209"></div><script src="https://www.buzzsprout.com/2126226/12452209-4.js?container_id=buzzsprout-player-12452209&player=small" type="text/javascript" charset="utf-8"></script> -->
 
-{% include podcast_share.html %}
+<figure>
+    <figcaption></figcaption>
+    <audio controls src="{{site.url}}{{site.baseurl}}/assets/episodes/004_episode_final.mp3">
+        <a href="https://techcommpod.ru/assets/episodes/004_episode_final.mp3"> Скачать файл </a>
+    </audio>
+</figure>
+
+<!-- {% include podcast_share.html %} -->
 
 ***
 ### 00:00 - 00:51 Приветствие

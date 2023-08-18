@@ -13,9 +13,16 @@ tags: []
 
 Отзыв на книгу Уильяма Зинсера "Как писать хорошо. Классическое руководство по созданию нехудожественных текстов".
 
-<div id="buzzsprout-player-12359200"></div><script src="https://www.buzzsprout.com/2126226/12359200-3.js?container_id=buzzsprout-player-12359200&player=small" type="text/javascript" charset="utf-8"></script>
+<!-- <div id="buzzsprout-player-12359200"></div><script src="https://www.buzzsprout.com/2126226/12359200-3.js?container_id=buzzsprout-player-12359200&player=small" type="text/javascript" charset="utf-8"></script> -->
 
-{% include podcast_share.html %}
+<!-- {% include podcast_share.html %} -->
+
+<figure>
+    <figcaption></figcaption>
+    <audio controls src="{{site.url}}{{site.baseurl}}/assets/episodes/003_episode_final.mp3">
+        <a href="https://techcommpod.ru/assets/episodes/003_episode_final.mp3"> Скачать файл </a>
+    </audio>
+</figure>
 
 ***
 ### 00:00 - 00:54 Приветствие

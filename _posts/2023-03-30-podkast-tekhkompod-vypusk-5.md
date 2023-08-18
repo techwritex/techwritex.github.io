@@ -13,9 +13,16 @@ tags: []
 
 Переход российских компаний на парадигму "документация как код" в части создания и сопровождения технической документации, а также для чего нужны и как написать понятные сообщения для git-коммитов.
 
-<div id="buzzsprout-player-12546823"></div><script src="https://www.buzzsprout.com/2126226/12546823-5.js?container_id=buzzsprout-player-12546823&player=small" type="text/javascript" charset="utf-8"></script>
+<!-- <div id="buzzsprout-player-12546823"></div><script src="https://www.buzzsprout.com/2126226/12546823-5.js?container_id=buzzsprout-player-12546823&player=small" type="text/javascript" charset="utf-8"></script> -->
 
-{% include podcast_share.html %}
+<figure>
+    <figcaption></figcaption>
+    <audio controls src="{{site.url}}{{site.baseurl}}/assets/episodes/005_episode_final.mp3">
+        <a href="https://techcommpod.ru/assets/episodes/005_episode_final.mp3"> Скачать файл </a>
+    </audio>
+</figure>
+
+<!-- {% include podcast_share.html %} -->
 
 ***
 ### 00:00 - 00:52 Приветствие

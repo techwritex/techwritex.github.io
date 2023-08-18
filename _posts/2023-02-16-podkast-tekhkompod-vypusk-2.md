@@ -17,9 +17,16 @@ tags: []
 
 Ответы на эти вопросы в данном выпуске подкаста.
 
-<div id="buzzsprout-player-12262339"></div><script src="https://www.buzzsprout.com/2126226/12262339-2.js?container_id=buzzsprout-player-12262339&player=small" type="text/javascript" charset="utf-8"></script>
+<!-- <div id="buzzsprout-player-12262339"></div><script src="https://www.buzzsprout.com/2126226/12262339-2.js?container_id=buzzsprout-player-12262339&player=small" type="text/javascript" charset="utf-8"></script>
 
-{% include podcast_share.html %}
+{% include podcast_share.html %} -->
+
+<figure>
+    <figcaption></figcaption>
+    <audio controls src="{{site.url}}{{site.baseurl}}/assets/episodes/002_episode_final.mp3">
+        <a href="https://techcommpod.ru/assets/episodes/002_episode_final.mp3"> Скачать файл </a>
+    </audio>
+</figure>
 
 ***
 ### 00:00 - 00:59 Вступление

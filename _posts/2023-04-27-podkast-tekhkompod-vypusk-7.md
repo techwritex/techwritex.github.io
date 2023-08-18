@@ -13,7 +13,14 @@ tags: []
 
 В основе любой деятельности лежит набор определенных процессов. Разработка технической документации не является исключением. В  сегодняшнем выпуске о втором этапе процесса создания документации. 
 
-<div id="buzzsprout-player-12727146"></div><script src="https://www.buzzsprout.com/2126226/12727146-7.js?container_id=buzzsprout-player-12727146&player=small" type="text/javascript" charset="utf-8"></script>
+<!-- <div id="buzzsprout-player-12727146"></div><script src="https://www.buzzsprout.com/2126226/12727146-7.js?container_id=buzzsprout-player-12727146&player=small" type="text/javascript" charset="utf-8"></script> -->
+
+<figure>
+    <figcaption></figcaption>
+    <audio controls src="{{site.url}}{{site.baseurl}}/assets/episodes/007_episode_final.mp3">
+        <a href="https://techcommpod.ru/assets/episodes/007_episode_final.mp3"> Скачать файл </a>
+    </audio>
+</figure>
 
 <!--more-->
 
