@@ -15,6 +15,8 @@ summary: ""
 
 **Технический писатель** (технический коммуникатор) в сфере ИТ с опытом работы более 12 лет в качестве аналитика данных, разработчика хранилищ данных и консультанта по бизнес-аналитике. 
 
+Сертифицированный Аналитик данных Amazon Web Services (AWS).
+
 Сертифицированный Архитектор облачных решений Amazon Web Services (AWS).
 
 Сертифицированный SAP Business Intelligence (BI) консультант.
@@ -45,6 +47,7 @@ summary: ""
 * Интсрументы разработки диаграмм и блок-схем: Microsoft Visio.
 * Инструменты публикации документации: Confluence.
 * Инструменты отчётности и анализа: SAP Business Objects Web Intelligence (WebI).
+* ETL инструменты: dbt (data build tool) cloud.
 * Инструменты ведения разработки и написания кода: VS Code, Eclipse IDE.
 
 ***
@@ -86,12 +89,21 @@ summary: ""
 
 Academic writing <br/> 
 TUM Language Center (Technical University of Munich).
+[Проверить](https://courses.edx.org/certificates/122d9a878dfc4dd4a22446378b20dfbe)
+
+dbt Fundamentals <br/> dbt Labs<br/>
+[Проверить](https://www.credential.net/30135104-44b3-4b7c-8dfb-0f08cb794c41)
+
+AWS Certified Data Analytics - Specilty <br/> Amazon Web Services<br/>
+Проверить [30L46X924M1QQCC5](https://aw.certmetrics.com/amazon/public/verification.aspx)
+
+AWS Certified Solutions Architect - Associate <br/> Amazon Web Services<br/>
+Проверить [GXGC1YMCFBEQ1D92](https://aw.certmetrics.com/amazon/public/verification.aspx) 
+
+AWS Certified Cloud Practitioner <br/> Amazon Web Services<br/>
+Проверить [MEFKTPZC3NQ114WP](https://aw.certmetrics.com/amazon/public/verification.aspx)
 
 SAP Certified Application Associate- Business Intelligence with SAP NetWeaver 7.0 <br/> САП СНГ (SAP)
-
-AWS Certified Solutions Architect - Associate <br/> Amazon Web Services
-
-AWS Certified Cloud Practitioner <br/> Amazon Web Services
 
 Специалист JavaScript <br/> Учебный центр "Специалист" при МГТУ им. Н.Э. Баумана
 
