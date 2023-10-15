@@ -106,7 +106,7 @@ ID сертификата: GXGC1YMCFBEQ1D92 <br/>
 ID сертификата: MEFKTPZC3NQ114WP <br/>
 Проверить: [https://aws.amazon.com/verification](https://aws.amazon.com/verification)
 
-SAP Certified Application Associate- Business Intelligence with SAP NetWeaver 7.0** <br/> САП СНГ (SAP)
+**SAP Certified Application Associate- Business Intelligence with SAP NetWeaver 7.0** <br/> САП СНГ (SAP)
 
 **Специалист JavaScript** <br/> Учебный центр "Специалист" при МГТУ им. Н.Э. Баумана
 

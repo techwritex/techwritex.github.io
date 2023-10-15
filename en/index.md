@@ -89,7 +89,7 @@ Saratov State Technical University <br/> Engineer
 ### Courses and certificates
 
 **Academic writing** <br/> 
-TUM Language Center (Technical University of Munich).
+TUM Language Center (Technical University of Munich).<br/>
 Validate at: [https://courses.edx.org/certificates](https://courses.edx.org/certificates/122d9a878dfc4dd4a22446378b20dfbe)
 
 **dbt Fundamentals** <br/> dbt Labs<br/>
