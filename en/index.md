@@ -88,27 +88,27 @@ Saratov State Technical University <br/> Engineer
 
 ### Courses and certificates
 
-Academic writing <br/> 
+**Academic writing** <br/> 
 TUM Language Center (Technical University of Munich).
 Validate at: [https://courses.edx.org/certificates](https://courses.edx.org/certificates/122d9a878dfc4dd4a22446378b20dfbe)
 
-dbt Fundamentals <br/> dbt Labs<br/>
+**dbt Fundamentals** <br/> dbt Labs<br/>
 Validate at [https://www.credential.net](https://www.credential.net/30135104-44b3-4b7c-8dfb-0f08cb794c41)
 
-AWS Certified Data Analytics - Specilty <br/> Amazon Web Services<br/>
+**AWS Certified Data Analytics - Specilty** <br/> Amazon Web Services<br/>
 Validate number: 30L46X924M1QQCC5 <br/>
 Validate at: [https://aws.amazon.com/verification](https://aws.amazon.com/verification)
 
-AWS Certified Solutions Architect - Associate <br/> Amazon Web Services<br/>
+**AWS Certified Solutions Architect - Associate** <br/> Amazon Web Services<br/>
 Validate number: GXGC1YMCFBEQ1D92 <br/>
 Validate at: [https://aws.amazon.com/verification](https://aws.amazon.com/verification)
 
-AWS Certified Cloud Practitioner <br/> Amazon Web Services<br/>
+**AWS Certified Cloud Practitioner** <br/> Amazon Web Services<br/>
 Validate number: MEFKTPZC3NQ114WP <br/>
 Validate at: [https://aws.amazon.com/verification](https://aws.amazon.com/verification)
 
-SAP Certified Application Associate- Business Intelligence with SAP NetWeaver 7.0 <br/> SAP CIS (SAP)
+**SAP Certified Application Associate- Business Intelligence with SAP NetWeaver 7.0** <br/> SAP CIS (SAP)
 
-JavaScript developer <br/> Computer Training Center "Specialist" at The Bauman Moscow State Technical University
+**JavaScript developer** <br/> Computer Training Center "Specialist" at The Bauman Moscow State Technical University
 
 {% include links.html %}

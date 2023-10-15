@@ -47,7 +47,7 @@ summary: ""
 * Интсрументы разработки диаграмм и блок-схем: Microsoft Visio.
 * Инструменты публикации документации: Confluence.
 * Инструменты отчётности и анализа: SAP Business Objects Web Intelligence (WebI).
-* ETL инструменты: dbt (data build tool) cloud.
+* Инструменты ETL: dbt (data build tool).
 * Инструменты ведения разработки и написания кода: VS Code, Eclipse IDE.
 
 ***
@@ -87,27 +87,27 @@ summary: ""
 
 ### Курсы и сертификации
 
-Academic writing <br/> 
+**Academic writing** <br/> 
 TUM Language Center (Technical University of Munich). <br/>
 Проверить: [https://courses.edx.org/certificates](https://courses.edx.org/certificates/122d9a878dfc4dd4a22446378b20dfbe)
 
-dbt Fundamentals <br/> dbt Labs<br/>
+**dbt Fundamentals** <br/> dbt Labs<br/>
 Проверить: [https://www.credential.net](https://www.credential.net/30135104-44b3-4b7c-8dfb-0f08cb794c41)
 
-AWS Certified Data Analytics - Specilty <br/> Amazon Web Services<br/>
+**AWS Certified Data Analytics - Specilty** <br/> Amazon Web Services<br/>
 ID сертификата: 30L46X924M1QQCC5 <br/>
 Проверить: [https://aws.amazon.com/verification](https://aws.amazon.com/verification)
 
-AWS Certified Solutions Architect - Associate <br/> Amazon Web Services<br/>
+**AWS Certified Solutions Architect - Associate** <br/> Amazon Web Services<br/>
 ID сертификата: GXGC1YMCFBEQ1D92 <br/>
 Проверить: [https://aws.amazon.com/verification](https://aws.amazon.com/verification)
 
-AWS Certified Cloud Practitioner <br/> Amazon Web Services<br/>
+**AWS Certified Cloud Practitioner** <br/> Amazon Web Services<br/>
 ID сертификата: MEFKTPZC3NQ114WP <br/>
 Проверить: [https://aws.amazon.com/verification](https://aws.amazon.com/verification)
 
-SAP Certified Application Associate- Business Intelligence with SAP NetWeaver 7.0 <br/> САП СНГ (SAP)
+SAP Certified Application Associate- Business Intelligence with SAP NetWeaver 7.0** <br/> САП СНГ (SAP)
 
-Специалист JavaScript <br/> Учебный центр "Специалист" при МГТУ им. Н.Э. Баумана
+**Специалист JavaScript** <br/> Учебный центр "Специалист" при МГТУ им. Н.Э. Баумана
 
 {% include links.html %}
