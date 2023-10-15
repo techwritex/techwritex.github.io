@@ -90,19 +90,22 @@ Saratov State Technical University <br/> Engineer
 
 Academic writing <br/> 
 TUM Language Center (Technical University of Munich).
-[Show credential](https://courses.edx.org/certificates/122d9a878dfc4dd4a22446378b20dfbe)
+Validate at: [https://courses.edx.org/certificates](https://courses.edx.org/certificates/122d9a878dfc4dd4a22446378b20dfbe)
 
 dbt Fundamentals <br/> dbt Labs<br/>
-[Show credential](https://www.credential.net/30135104-44b3-4b7c-8dfb-0f08cb794c41)
+Validate at [https://www.credential.net](https://www.credential.net/30135104-44b3-4b7c-8dfb-0f08cb794c41)
 
 AWS Certified Data Analytics - Specilty <br/> Amazon Web Services<br/>
-Credential ID [30L46X924M1QQCC5](https://aw.certmetrics.com/amazon/public/verification.aspx)
+Validate number: 30L46X924M1QQCC5 <br/>
+Validate at: [https://aws.amazon.com/verification](https://aws.amazon.com/verification)
 
 AWS Certified Solutions Architect - Associate <br/> Amazon Web Services<br/>
-Credential ID [GXGC1YMCFBEQ1D92](https://aw.certmetrics.com/amazon/public/verification.aspx) 
+Validate number: GXGC1YMCFBEQ1D92 <br/>
+Validate at: [https://aws.amazon.com/verification](https://aws.amazon.com/verification)
 
 AWS Certified Cloud Practitioner <br/> Amazon Web Services<br/>
-Credential ID [MEFKTPZC3NQ114WP](https://aw.certmetrics.com/amazon/public/verification.aspx)
+Validate number: MEFKTPZC3NQ114WP <br/>
+Validate at: [https://aws.amazon.com/verification](https://aws.amazon.com/verification)
 
 SAP Certified Application Associate- Business Intelligence with SAP NetWeaver 7.0 <br/> SAP CIS (SAP)
 

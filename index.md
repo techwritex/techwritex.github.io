@@ -63,7 +63,7 @@ summary: ""
 
 Сентябрь 2019 – н.в. <br/> Независимый подрядчик (Самозанятый)
 
-Апрель 2020 – н.в. <br/> Эксперт по бизнес-аналитике (Норникель)
+Апрель 2020 – н.в. <br/> BI Эксперт (Норникель)
 
 Январь 2017 – Март 2020  <br/> Ведущий консультант по бизнес-аналитике (Норникель)
 
@@ -88,20 +88,23 @@ summary: ""
 ### Курсы и сертификации
 
 Academic writing <br/> 
-TUM Language Center (Technical University of Munich).
-[Проверить](https://courses.edx.org/certificates/122d9a878dfc4dd4a22446378b20dfbe)
+TUM Language Center (Technical University of Munich). <br/>
+Проверить: [https://courses.edx.org/certificates](https://courses.edx.org/certificates/122d9a878dfc4dd4a22446378b20dfbe)
 
 dbt Fundamentals <br/> dbt Labs<br/>
-[Проверить](https://www.credential.net/30135104-44b3-4b7c-8dfb-0f08cb794c41)
+Проверить: [https://www.credential.net](https://www.credential.net/30135104-44b3-4b7c-8dfb-0f08cb794c41)
 
 AWS Certified Data Analytics - Specilty <br/> Amazon Web Services<br/>
-Проверить [30L46X924M1QQCC5](https://aw.certmetrics.com/amazon/public/verification.aspx)
+ID сертификата: 30L46X924M1QQCC5 <br/>
+Проверить: [https://aws.amazon.com/verification](https://aws.amazon.com/verification)
 
 AWS Certified Solutions Architect - Associate <br/> Amazon Web Services<br/>
-Проверить [GXGC1YMCFBEQ1D92](https://aw.certmetrics.com/amazon/public/verification.aspx) 
+ID сертификата: GXGC1YMCFBEQ1D92 <br/>
+Проверить: [https://aws.amazon.com/verification](https://aws.amazon.com/verification)
 
 AWS Certified Cloud Practitioner <br/> Amazon Web Services<br/>
-Проверить [MEFKTPZC3NQ114WP](https://aw.certmetrics.com/amazon/public/verification.aspx)
+ID сертификата: MEFKTPZC3NQ114WP <br/>
+Проверить: [https://aws.amazon.com/verification](https://aws.amazon.com/verification)
 
 SAP Certified Application Associate- Business Intelligence with SAP NetWeaver 7.0 <br/> САП СНГ (SAP)
 
