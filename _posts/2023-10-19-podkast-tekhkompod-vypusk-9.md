@@ -4,7 +4,7 @@ title:  "[Подкаст ТЕХКОМПОД] Выпуск #9"
 keywords: визуализация данных, дашборды, Стивен Фью, технический писатель, технический коммуникатор, подкаст технического коммуникатора, техкомпод, техническая коммуникация
 sidebar: general_sidebar
 published: true
-permalink: podkast-tekhkompod-vypusk-9.md.html
+permalink: podkast-tekhkompod-vypusk-9.html
 summary: ""
 toc: false
 lang: "ru"
