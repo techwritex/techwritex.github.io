@@ -25,9 +25,9 @@ entries:
     url: ../kak-napisat-instruktciyu.html
     output: web
   
-  - title: Портфолио 
-    url: ../portfolio.html
-    output: web
+  # - title: Портфолио 
+  #   url: ../portfolio.html
+  #   output: web
   
   - title: Контакты 
     url: ../contacts.html

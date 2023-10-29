@@ -17,9 +17,9 @@ entries:
     url: en/notes_en.html
     output: web
   
-  - title: Portfolio 
-    url: en/portfolio.html
-    output: web
+  # - title: Portfolio 
+  #   url: en/portfolio.html
+  #   output: web
   
   - title: Contacts 
     url: en/contacts.html
