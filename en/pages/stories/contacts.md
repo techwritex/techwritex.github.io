@@ -11,7 +11,7 @@ summary: ""
 
 **Please, contact me via the following channels:**
 
-- [Linkedin profile](https://www.linkedin.com/in/vladimir-yusupov-sap-bi-consultant-technical-communicator/)
+- [Linkedin profile](https://www.linkedin.com/in/vladimir-yusupov/)
 - vladimir(at)techwritex(dot)ru
 
 ***

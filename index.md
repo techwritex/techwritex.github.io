@@ -9,7 +9,7 @@ lang: "ru"
 summary: ""
 ---
 
-{% include note.html content="более подробная информация представлена в [моем профиле на Linkedin](https://www.linkedin.com/in/vladimir-yusupov-sap-bi-consultant-technical-communicator/)." %}
+{% include note.html content="более подробная информация представлена в [моем профиле на Linkedin](https://www.linkedin.com/in/vladimir-yusupov/)." %}
 
 ***
 
