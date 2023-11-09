@@ -1,7 +1,7 @@
 ---
 title:  "Markdown шпаргалка"
 # author: 'Владимир Юсупов'
-keywords: Markdown, docs-as-code, технический писатель, технический коммуникатор, подкаст технического коммуникатора, техкомпод, техническая коммуникация
+keywords: язык разметки Markdown, синтаксис Markdown, docs-as-code,  docs-like-code, технический писатель, технический коммуникатор, 
 sidebar: general_sidebar
 published: true
 permalink: markdown-shpargalka.html
