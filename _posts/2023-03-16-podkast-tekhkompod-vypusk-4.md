@@ -1,5 +1,5 @@
 ---
-title:  "[Подкаст ТЕХКОМПОД] Выпуск #4"
+title:  "[Подкаст ТЕХКОМПОД] Выпуск #4. Дополнение по единому источнику правды"
 # author: 'Владимир Юсупов'
 keywords: технический писатель, технический коммуникатор, подкаст технического коммуникатора, техкомпод, техкническая коммуникация, технические коммуникаторы, единый источник правды
 sidebar: general_sidebar
@@ -12,8 +12,6 @@ tags: []
 ---
 
 Небольшое дополнение к [выпуску о едином источнике правды документации](https://techwritex.ru/podkast-tekhkompod-vypusk-2.html).
-
-<!-- <div id="buzzsprout-player-12452209"></div><script src="https://www.buzzsprout.com/2126226/12452209-4.js?container_id=buzzsprout-player-12452209&player=small" type="text/javascript" charset="utf-8"></script> -->
 
 <figure>
     <figcaption></figcaption>

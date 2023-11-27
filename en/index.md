@@ -14,7 +14,7 @@ summary: ""
 
 ***
 
-**Technical writer** (technical communicator) with 12+ years of experience in IT as a data analyst, data warehouse developer (data engineer) and business intelligence consultant. 
+**Technical writer** (technical communicator) with 14 years of experience in IT as a data analyst, data warehouse developer (data engineer) and business intelligence consultant. 
 
 AWS Certified Data Analytics - Specilty.
 
@@ -48,7 +48,7 @@ SAP Certified Business Intelligence (BI) consultant.
 * Diagramming software: Microsoft Visio.
 * Collaboration documentation tools: Confluence.
 * Reporting and analysis tools: SAP Business Objects Web Intelligence (WebI).
-* ETL tools: dbt (data build tool) cloud.
+* ELT tools: dbt (data build tool) cloud.
 * IDEs and code editors: VS Code, Eclipse IDE.
 
 ***
