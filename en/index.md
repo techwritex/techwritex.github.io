@@ -14,7 +14,7 @@ summary: ""
 
 ***
 
-**Technical writer** (technical communicator) with 14 years of experience in IT as a data analyst, data warehouse developer (data engineer) and business intelligence consultant. 
+**Technical writer** (at heart, but really an engineer) with 14 years of experience in IT as a data warehouse developer (data engineer) and business intelligence consultant. 
 
 AWS Certified Data Analytics - Specilty.
 
@@ -72,11 +72,11 @@ Jul 2016 – Jan 2017 <br/> Business intelligence consultant (Rosatom)
 
 Jul 2013 – Jul 2016  <br/> Data Warehouse developer (Rosneft)
 
-Jul 2011 – Jul 2013 <br/> Data analyst/Data Warehouse developer (TNK-BP)
+Jul 2011 – Jul 2013 <br/> Data Warehouse developer (TNK-BP)
 
 Jun 2010 – Jul 2011 <br/> Data Warehouse developer (BDO)
 
-Oct 2009 – Jun 2010 <br/> Data analyst/Data Warehouse developer (TNK-BP)
+Oct 2009 – Jun 2010 <br/> Data Warehouse developer (TNK-BP)
 
 ***
 
