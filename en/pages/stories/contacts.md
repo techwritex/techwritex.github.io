@@ -14,10 +14,5 @@ summary: ""
 - [Linkedin profile](https://www.linkedin.com/in/vladimir-yusupov/)
 - vladimir(at)techwritex(dot)ru
 
-***
-
-I'm working as an independent contractor.  <br/> 
-Presently, I'm considerring remote projects only (~20-25 hours per week).
-
 
 {% include links.html %}

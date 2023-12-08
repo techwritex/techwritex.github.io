@@ -14,9 +14,5 @@ summary: ""
 - [Профиль на Linkedin](https://www.linkedin.com/in/vladimir-yusupov/).
 - vladimir(at)techwritex(dot)ru
 
-***
-
-Работаю по договору оказания услуг (в качестве самозанятого).  <br/> В настоящее время рассматриваю проекты только с дистанционным привлечением 20-25 часов в неделю.
-
 
 {% include links.html %}
