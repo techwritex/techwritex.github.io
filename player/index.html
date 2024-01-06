@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Проигрыватель Техкомпод</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- <script src="https://unpkg.com/wavesurfer.js@7"></script> -->
+</head>
+
+<body>
+    <div class="hero">
+        <div class="music">
+            <img src="https://techcommpod.ru/assets/images/techcommpod_logo.jpeg" alt="">
+            <div class="info">
+                <p>Техкомпод | Выпуск 12</p>
+                <h2>Беседа с Ариной Балериной</h2>
+                <!-- <audio controls>
+                        <source src="https://techcommpod.s3.eu-north-1.amazonaws.com/episodes/012_episode_final.mp3" type="audio/mp3">
+                    </audio> -->
+                <div id="waveform">
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script type="module">
+        import WaveSurfer from 'https://unpkg.com/wavesurfer.js@7/dist/wavesurfer.esm.js'
+
+        const wavesurfer = WaveSurfer.create({
+            container: '#waveform',
+            waveColor: '#4F4A85',
+            progressColor: '#383351',
+            url: 'https://techcommpod.s3.eu-north-1.amazonaws.com/episodes/012_episode_final.m',
+        })
+
+        wavesurfer.on('interaction', () => {
+            wavesurfer.play()
+        })
+    </script>
+
+</body>
+
+</html>
