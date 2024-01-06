@@ -1,17 +1,29 @@
-<div style="border-radius:5px; background-color: #ffffff; border: 1px solid #000000; padding: 20px; font-family: Arial, Helvetica, sans-serif;">
+<br>
 
-    <h3 style="text-align:center">Оповещение о новых выпусках</h3>
-    
-    <p style="text-align:center;">Получайте оповещение о публикации новых выпусков подкаста. Никакого спама. Всего одно письмо в две недели.</p>
-    
-      <form method="POST" action="https://cp.unisender.com/ru/subscribe?hash=6gshqkwam3ceus853j6zx3cz7k9c6urc1doj1brcbnfawrdrss5qy" name="subscribtion_form">
-        <div><input type="email" id="email" name="email" placeholder="Email" style="width:100%; padding: 12px; border: 1px solid #ccc; border-radius: 4px; box-sizing: border-box; margin-top: 6px; margin-bottom: 16px; resize: vertical;"></div>
-        <div style="padding:20px 0px;"><input type="submit" value="ПОДПИСЫВАЮСЬ" style="width:100%; background-color: #04AA6D; color: white; padding: 12px 20px; border: none; border-radius: 4px; cursor: pointer;"></div>
-    <div>   
-     <input type="hidden" name="charset" value="UTF-8">
-        <input type="hidden" name="default_list_id" value="2">
-        <input type="hidden" name="overwrite" value="2">
-        <input type="hidden" name="is_v5" value="1">
+<div
+  style="border-radius:5px; background-color: #ffffff; border: 1px solid #000000; padding: 20px; font-family: Arial, Helvetica, sans-serif;">
+
+  <h3 style="text-align:center">Оповещение о новых выпусках</h3>
+
+  <p style="text-align:center; font-size: 15px">Получайте оповещение о публикации новых выпусков подкаста. Никакого спама. Всего одно
+    письмо в две недели.</p>
+
+  <form method="POST"
+    action="https://cp.unisender.com/ru/subscribe?hash=6gshqkwam3ceus853j6zx3cz7k9c6urc1doj1brcbnfawrdrss5qy"
+    name="subscribtion_form">
+    <div><input type="email" id="email" name="email" placeholder="Email"
+        style="width:100%; padding: 12px; border: 1px solid #ccc; border-radius: 4px; box-sizing: border-box; margin-top: 6px; margin-bottom: 16px; resize: vertical;">
+        <input type="checkbox" id="agreement" name="agreement" value="1" required>
+        <label for="agreement" style="font-size: 15px">Я согласен получать сообщения по электронной почте и понимаю, что могу легко отказаться от рассылки в любое время.</label><br>
     </div>
-      </form>
+    <div style="padding:20px 0px;"><input type="submit" value="ПОДПИСЫВАЮСЬ"
+        style="width:100%; background-color: #04AA6D; color: white; padding: 12px 20px; border: none; border-radius: 4px; cursor: pointer;">
     </div>
+    <div>
+      <input type="hidden" name="charset" value="UTF-8">
+      <input type="hidden" name="default_list_id" value="2">
+      <input type="hidden" name="overwrite" value="2">
+      <input type="hidden" name="is_v5" value="1">
+    </div>
+  </form>
+</div>
