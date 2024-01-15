@@ -4,7 +4,7 @@ title:  "[Подкаст ТЕХКОМПОД] Выпуск #13. Почему ме
 keywords: искусство объяснять, как сделать так чтобы вас понимали с полуслова, Ли ЛеФевер, Lee LeFever, Common Craft, что такое объяснение, проклятие знания, путь к понятному объяснению, понятное объяснение, почему меня не понимают, техкомпод, подкаст технического коммуникатора
 sidebar: general_sidebar
 published: true
-permalink: pochemu-menya-ne-ponimayut.html
+permalink: podkast-tekhkompod-vypusk-13-pochemu-menya-ne-ponimayut.html
 summary: ""
 toc: false
 lang: "ru"

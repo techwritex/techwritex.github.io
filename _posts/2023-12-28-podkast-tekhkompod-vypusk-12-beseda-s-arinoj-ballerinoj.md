@@ -4,7 +4,7 @@ title:  "[Подкаст ТЕХКОМПОД] Выпуск #12. Беседа с �
 keywords: Арина Балерина, Arina Ballerina, документация как код, docs as code, телеграм-группа технические писатели, техкомпод, подкаст технического коммуникатора, единый источник правды в документации, единый источник истины в документации
 sidebar: general_sidebar
 published: true
-permalink: podkast-tekhkompod-vypusk-12-beseda-s-arinoj-ballerinoj.md.html
+permalink: podkast-tekhkompod-vypusk-12-beseda-s-arinoj-ballerinoj.html
 summary: ""
 toc: false
 lang: "ru"
