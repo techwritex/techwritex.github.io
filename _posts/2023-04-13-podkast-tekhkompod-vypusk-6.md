@@ -20,8 +20,6 @@ tags: []
     </audio>
 </figure>
 
-<!-- {% include podcast_share.html %} -->
-
 ***
 ### 00:00 - 01:08 Приветствие
 

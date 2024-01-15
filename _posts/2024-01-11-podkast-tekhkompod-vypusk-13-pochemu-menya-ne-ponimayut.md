@@ -21,7 +21,7 @@ tags: []
 
 {% include player_frame.html src="https://techcommpod.s3.eu-north-1.amazonaws.com/pages/episode_013/index.html" %}
 
-
+{% include podcast_platforms.html %}
 
 ### Расшифровка выпуска
 
