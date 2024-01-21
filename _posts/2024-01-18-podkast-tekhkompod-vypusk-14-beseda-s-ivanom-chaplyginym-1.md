@@ -27,8 +27,6 @@ tags: []
 
 {% include podcast_platforms.html %}
 
-{% include podcast_share_buttons.html %}
-
 ### Полезные ссылки
 
 #### Книга:
