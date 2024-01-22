@@ -1,5 +1,5 @@
 ---
-title:  "[Подкаст ТЕХКОМПОД] Выпуск #13. Почему меня не понимают?"
+title:  "[Подкаст] Выпуск #13. Почему меня не понимают?"
 # author: 'Владимир Юсупов'
 keywords: искусство объяснять, как сделать так чтобы вас понимали с полуслова, Ли ЛеФевер, Lee LeFever, Common Craft, что такое объяснение, проклятие знания, путь к понятному объяснению, понятное объяснение, почему меня не понимают, техкомпод, подкаст технического коммуникатора
 sidebar: general_sidebar
@@ -21,7 +21,19 @@ tags: []
 
 {% include player_frame.html src="https://techcommpod.s3.eu-north-1.amazonaws.com/pages/episode_013/index.html" %}
 
+### Полезные ссылки
+
+#### Книга: 
+
+[Искусство объяснять. Как сделать так, чтобы вас понимали с полуслова](https://www.litres.ru/book/li-lefever/iskusstvo-obyasnyat-6183660/)
+
+<br>
+
 {% include podcast_platforms.html %}
+
+{% include podcast_share_buttons.html %}
+
+***
 
 ### Расшифровка выпуска
 
@@ -227,10 +239,6 @@ tags: []
 С Вами был Владимир Юсупов. Подкаст технического коммуникатора Техкомпод. 
 
 Пока!
-
-### Ссылка на книгу
-
-[Искусство объяснять. Как сделать так, чтобы вас понимали с полуслова](https://www.litres.ru/book/li-lefever/iskusstvo-obyasnyat-6183660/)
 
 {% include podcast_subscribe_form_1.html %}
 

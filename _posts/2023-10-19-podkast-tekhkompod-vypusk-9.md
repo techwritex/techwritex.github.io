@@ -1,5 +1,5 @@
 ---
-title:  "[Подкаст ТЕХКОМПОД] Выпуск #9. Визуализация данных"
+title:  "[Подкаст] Выпуск #9. Визуализация данных"
 # author: 'Владимир Юсупов'
 keywords: визуализация данных, дашборды, Стивен Фью, технический писатель, технический коммуникатор, подкаст технического коммуникатора, техкомпод, техническая коммуникация
 sidebar: general_sidebar
@@ -13,14 +13,32 @@ tags: []
 
 Технические коммуникаторы - это не только техписатели, как многие привыкли считать, это достаточно широкий диапазон профессий. Среди этих профессий присутствуют также специалисты по визуализации данных. В  сегодняшнем выпуске рассмотрим визуализацию данных, как вид техкоммуникации.  
 
-<figure>
+<!-- <figure>
     <figcaption></figcaption>
     <audio controls src="https://techcommpod.ru/assets/episodes/009_episode_final.mp3">
         <a href="https://techcommpod.ru/assets/episodes/009_episode_final.mp3"> Скачать файл </a>
     </audio>
-</figure>
+</figure> -->
 
 <!--more-->
+
+{% include player_frame.html src="https://techcommpod.s3.eu-north-1.amazonaws.com/pages/episode_009/index.html" %}
+
+### Полезные ссылки
+
+#### Книга: 
+
+[«Information Dashboard Design: The Effective Visual Communication of Data» Stephen Few](http://public.magendanz.com/Temp/Information%20Dashboard%20Design.pdf)
+
+<br>
+
+{% include podcast_platforms.html %}
+
+{% include podcast_share_buttons.html %}
+
+***
+
+### Расшифровка выпуска
 
 ### 00:00 - 01:16 Приветствие
 

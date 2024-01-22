@@ -1,5 +1,5 @@
 ---
-title:  "[Подкаст ТЕХКОМПОД] Выпуск #5. Документация как код"
+title:  "[Подкаст] Выпуск #5. Документация как код"
 # author: 'Владимир Юсупов'
 keywords: технический писатель, технический коммуникатор, подкаст технического коммуникатора, техкомпод, техкническая коммуникация, docs-as-code, docs like code, документация как код
 sidebar: general_sidebar
@@ -13,12 +13,18 @@ tags: []
 
 Переход российских компаний на парадигму "документация как код" в части создания и сопровождения технической документации, а также для чего нужны и как написать понятные сообщения для git-коммитов.
 
-<figure>
+<!-- <figure>
     <figcaption></figcaption>
     <audio controls src="https://techcommpod.ru/assets/episodes/005_episode_final.mp3">
         <a href="https://techcommpod.ru/assets/episodes/005_episode_final.mp3"> Скачать файл </a>
     </audio>
-</figure>
+</figure> -->
+
+{% include player_frame.html src="https://techcommpod.s3.eu-north-1.amazonaws.com/pages/episode_005/index.html" %}
+
+{% include podcast_platforms.html %}
+
+{% include podcast_share_buttons.html %}
 
 ***
 ### 00:00 - 00:52 Приветствие

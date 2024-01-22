@@ -1,5 +1,5 @@
 ---
-title:  "[Подкаст ТЕХКОМПОД] Выпуск #2. Единый источник правды"
+title:  "[Подкаст] Выпуск #2. Единый источник правды"
 # author: 'Владимир Юсупов'
 keywords: технический писатель, технический коммуникатор, подкаст технического коммуникатора, техкомпод, техкническая коммуникация, технические коммуникаторы, единый источник правды, эволюция технической документации
 sidebar: general_sidebar
@@ -17,12 +17,18 @@ tags: []
 
 Ответы на эти вопросы в данном выпуске подкаста.
 
-<figure>
+<!-- <figure>
     <figcaption></figcaption>
     <audio controls src="https://techcommpod.ru/assets/episodes/002_episode_final.mp3">
         <a href="https://techcommpod.ru/assets/episodes/002_episode_final.mp3"> Скачать файл </a>
     </audio>
-</figure>
+</figure> -->
+
+{% include player_frame.html src="https://techcommpod.s3.eu-north-1.amazonaws.com/pages/episode_002/index.html" %}
+
+{% include podcast_platforms.html %}
+
+{% include podcast_share_buttons.html %}
 
 ***
 ### 00:00 - 00:59 Вступление

@@ -1,5 +1,5 @@
 ---
-title:  "[Подкаст ТЕХКОМПОД] Выпуск #1. Знакомство"
+title:  "[Подкаст] Выпуск #1. Знакомство"
 # author: 'Владимир Юсупов'
 keywords: технический писатель, технический коммуникатор, подкаст технического коммуникатора, техкомпод, техкническая коммуникация, технические коммуникаторы
 sidebar: general_sidebar
@@ -19,12 +19,18 @@ tags: []
 
 Послушайте первый выпуск и всё сразу поймёте.
 
-<figure>
+<!-- <figure>
     <figcaption></figcaption>
     <audio controls src="https://techcommpod.ru/assets/episodes/001_episode_final.mp3">
         <a href="https://techcommpod.ru/assets/episodes/001_episode_final.mp3"> Скачать файл </a>
     </audio>
-</figure>
+</figure> -->
+
+{% include player_frame.html src="https://techcommpod.s3.eu-north-1.amazonaws.com/pages/episode_001/index.html" %}
+
+{% include podcast_platforms.html %}
+
+{% include podcast_share_buttons.html %}
 
 ***
 ### 00:00 - 00:57 Вступление

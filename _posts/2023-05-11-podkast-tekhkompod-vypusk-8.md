@@ -1,5 +1,5 @@
 ---
-title:  "[Подкаст ТЕХКОМПОД] Выпуск #8. Процесс разработки технической документации (согласование и публикация)"
+title:  "[Подкаст] Выпуск #8. Процесс разработки технической документации (согласование и публикация)"
 # author: 'Владимир Юсупов'
 keywords: технический писатель, технический коммуникатор, подкаст технического коммуникатора, техкомпод, техкническая коммуникация, процесс разработки документации, этап согласование, этап публикация
 sidebar: general_sidebar
@@ -13,14 +13,24 @@ tags: []
 
 В основе любой деятельности лежит набор определенных процессов. Разработка технической документации не является исключением. В  сегодняшнем выпуске о третьем и четвертом этапах процесса создания документации. 
 
-<figure>
+<!-- <figure>
     <figcaption></figcaption>
     <audio controls src="https://techcommpod.ru/assets/episodes/008_episode_final.mp3">
         <a href="https://techcommpod.ru/assets/episodes/008_episode_final.mp3"> Скачать файл </a>
     </audio>
-</figure>
+</figure> -->
 
 <!--more-->
+
+{% include player_frame.html src="https://techcommpod.s3.eu-north-1.amazonaws.com/pages/episode_008/index.html" %}
+
+{% include podcast_platforms.html %}
+
+{% include podcast_share_buttons.html %}
+
+***
+
+### Расшифровка выпуска
 
 ### 00:00 - 01:07 Приветствие
 

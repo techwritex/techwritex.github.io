@@ -1,5 +1,5 @@
 ---
-title:  "[Подкаст ТЕХКОМПОД] Выпуск #14. Беседа с Иваном Чаплыгиным (Ч1)"
+title:  "[Подкаст] Выпуск #14. Беседа с Иваном Чаплыгиным (Ч1)"
 # author: 'Владимир Юсупов'
 keywords: Иван Чаплыгин, интервью с профессиональным переводчиком, телеграм-канал X-ren переведешь, книга Думай о смысле, книга Будни переводчика IT-текстов, техкомпод, подкаст технического коммуникатора
 sidebar: general_sidebar
@@ -25,9 +25,9 @@ tags: []
 
 {% include player_frame.html src="https://techcommpod.s3.eu-north-1.amazonaws.com/pages/episode_014/index.html" %}
 
-{% include podcast_platforms.html %}
-
 ### Полезные ссылки
+
+[Беседа с Иваном Чаплыгиным (Ч2)](https://techcommpod.ru/vypusk-15-beseda-s-ivanom-chaplyginym-2/)
 
 #### Книга:
 
@@ -40,6 +40,10 @@ tags: []
 Ник: [@agrio_chivas](https://t.me/agrio_chivas)
 
 <br>
+
+{% include podcast_platforms.html %}
+
+{% include podcast_share_buttons.html %}
 
 ***
 

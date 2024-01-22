@@ -1,5 +1,5 @@
 ---
-title:  "[Подкаст ТЕХКОМПОД] Выпуск #7. Процесс разработки технической документации (разработка)"
+title:  "[Подкаст] Выпуск #7. Процесс разработки технической документации (разработка)"
 # author: 'Владимир Юсупов'
 keywords: технический писатель, технический коммуникатор, подкаст технического коммуникатора, техкомпод, техкническая коммуникация, процесс разработки документации, этап разработка
 sidebar: general_sidebar
@@ -13,14 +13,24 @@ tags: []
 
 В основе любой деятельности лежит набор определенных процессов. Разработка технической документации не является исключением. В  сегодняшнем выпуске о втором этапе процесса создания документации. 
 
-<figure>
+<!-- <figure>
     <figcaption></figcaption>
     <audio controls src="https://techcommpod.ru/assets/episodes/007_episode_final.mp3">
         <a href="https://techcommpod.ru/assets/episodes/007_episode_final.mp3"> Скачать файл </a>
     </audio>
-</figure>
+</figure> -->
 
 <!--more-->
+
+{% include player_frame.html src="https://techcommpod.s3.eu-north-1.amazonaws.com/pages/episode_007/index.html" %}
+
+{% include podcast_platforms.html %}
+
+{% include podcast_share_buttons.html %}
+
+***
+
+### Расшифровка выпуска
 
 ### 00:00 - 00:54 Приветствие
 

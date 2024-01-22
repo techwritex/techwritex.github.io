@@ -1,5 +1,5 @@
 ---
-title:  "[Подкаст ТЕХКОМПОД] Выпуск #3. Уильям Зинсер. Как писать хорошо"
+title:  "[Подкаст] Выпуск #3. Уильям Зинсер. Как писать хорошо"
 # author: 'Владимир Юсупов'
 keywords: технический писатель, технический коммуникатор, подкаст технического коммуникатора, техкомпод, техкническая коммуникация, технические коммуникаторы, единый источник правды, эволюция технической документации, обзор книги, уильям зинсер, как писать хорошо
 sidebar: general_sidebar
@@ -13,12 +13,28 @@ tags: []
 
 Отзыв на книгу Уильяма Зинсера "Как писать хорошо. Классическое руководство по созданию нехудожественных текстов".
 
-<figure>
+<!-- <figure>
     <figcaption></figcaption>
     <audio controls src="https://techcommpod.ru/assets/episodes/003_episode_final.mp3">
         <a href="https://techcommpod.ru/assets/episodes/003_episode_final.mp3"> Скачать файл </a>
     </audio>
-</figure>
+</figure> -->
+
+{% include player_frame.html src="https://techcommpod.s3.eu-north-1.amazonaws.com/pages/episode_003/index.html" %}
+
+### Полезные ссылки
+
+#### Книги: 
+
+[«On Writing Well: The Classic Guide to Writing Nonfiction» William Zinsser](https://www.amazon.com/Writing-Well-Classic-Guide-Nonfiction/dp/0060891548)
+
+[«Как писать хорошо: Классическое руководство по созданию нехудожественных текстов» Уильям Зинсер](https://book.glvrd.ru/?ysclid=lql441k04w855380703)
+
+<br>
+
+{% include podcast_platforms.html %}
+
+{% include podcast_share_buttons.html %}
 
 ***
 ### 00:00 - 00:54 Приветствие

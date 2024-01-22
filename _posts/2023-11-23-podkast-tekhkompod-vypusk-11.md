@@ -1,5 +1,5 @@
 ---
-title:  "[Подкаст ТЕХКОМПОД] Выпуск #11. Нужен ли инженерам навык письма?"
+title:  "[Подкаст] Выпуск #11. Нужен ли инженерам навык письма?"
 # author: 'Владимир Юсупов'
 keywords: письменная коммуникация, навык письма у инженеров, навык письма у разработчиков, зачем инженерам уметь писать, зачем разработчикам уметь писать,технический писатель, технический коммуникатор, подкаст технического коммуникатора, техкомпод, техническая коммуникация
 sidebar: general_sidebar
@@ -15,14 +15,40 @@ tags: []
 
 Сегодня предлагаю немного порассуждать над вопросом - нужен ли инженерам навык письма или достаточно иметь только технические знания?
 
-<figure>
+<!-- <figure>
     <figcaption></figcaption>
     <audio controls src="https://techcommpod.s3.eu-north-1.amazonaws.com/episodes/011_episode_final.mp3">
         <a href="https://techcommpod.s3.eu-north-1.amazonaws.com/episodes/011_episode_final.mp3"> Скачать файл </a>
     </audio>
-</figure>
+</figure> -->
 
 <!--more-->
+
+{% include player_frame.html src="https://techcommpod.s3.eu-north-1.amazonaws.com/pages/episode_011/index.html" %}
+
+### Полезные ссылки
+
+#### Книги:
+
+[A Guide to Writing as an Engineer, 5th Edition](https://www.wiley.com/en-us/A+Guide+to+Writing+as+an+Engineer%2C+5th+Edition-p-9781119285960)
+
+[Chapter 1: Engineers and Writing](https://media.wiley.com/product_data/excerpt/68/11192859/1119285968-226.pdf)
+
+[Communication for Engineers: A framework for software developers to become better communicators and increase their happiness, productivity, and impact](https://www.amazon.com/Communication-Engineers-developers-communicators-productivity-ebook/dp/B08W8MJNF8)
+
+#### Исследовательская работа:
+
+[Today was a Good Day: The Daily Life of Software Developers](https://www.microsoft.com/en-us/research/uploads/prod/2019/04/devtime-preprint-TSE19.pdf)
+
+<br>
+
+{% include podcast_platforms.html %}
+
+{% include podcast_share_buttons.html %}
+
+***
+
+### Расшифровка выпуска
 
 ### 00:00 - 02:06 Приветствие
 
