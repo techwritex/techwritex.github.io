@@ -6,7 +6,7 @@ output: web
 topnav_title: Techwritex 
 # this appears on the top navigation bar next to the home button
 
-site_title: Технический писатель Владимир Юсупов, Technical writer Vladimir Yusupov
+site_title: Инженер и технический писатель Владимир Юсупов
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
 company_name: Techwritex

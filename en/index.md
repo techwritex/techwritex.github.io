@@ -14,7 +14,7 @@ summary: ""
 
 ***
 
-**Technical writer** (at heart, but really an engineer) with 14 years of experience in IT as a data warehouse developer (data engineer) and business intelligence consultant. 
+**Technical writer** (at heart, but really an engineer) with 15 years of experience in IT as a data warehouse developer (data engineer) and business intelligence consultant. 
 
 AWS Certified Data Analytics - Specilty.
 
