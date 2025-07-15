@@ -36,6 +36,10 @@ entries:
   # - title: Портфолио 
   #   url: portfolio.html
   #   output: web
+
+  - title: dbt 
+    url: https://dwh-book.ru/
+    output: web
   
   - title: Контакты 
     url: contacts.html
