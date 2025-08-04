@@ -47,7 +47,7 @@ summary: ""
 * Интсрументы разработки диаграмм и блок-схем: Microsoft Visio.
 * Инструменты публикации документации: Confluence.
 * Инструменты отчётности и анализа: SAP Business Objects Web Intelligence (WebI), Apache Superset, DataLens.
-* Инструменты ELT: dbt (data build tool).
+* Инструменты преобразования данных: dbt (data build tool).
 * Инструменты ведения разработки и написания кода: VS Code, Eclipse IDE.
 
 ***

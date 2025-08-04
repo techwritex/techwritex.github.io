@@ -48,7 +48,7 @@ SAP Certified Business Intelligence (BI) consultant.
 * Diagramming software: Microsoft Visio.
 * Collaboration documentation tools: Confluence.
 * Reporting and analysis tools: SAP Business Objects Web Intelligence (WebI), Apache Superset, DataLens.
-* ELT tools: dbt (data build tool) cloud.
+* Data transformation tools: dbt (data build tool).
 * IDEs and code editors: VS Code, Eclipse IDE.
 
 ***
